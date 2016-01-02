@@ -61,3 +61,4 @@
     * Instruction
     * Function expressions
     * Function declarations
+15. [Comparison Operators & Equality](./comparison/comparison.md)
