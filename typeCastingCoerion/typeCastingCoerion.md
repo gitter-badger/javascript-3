@@ -2,6 +2,15 @@
 
 #### 1. Strings
 
+```js
+const reviewScrore = 9;
+/**
+ * bad
+ */
+
+const totalScore = 
+```
+
 #### 2. Numbers
 
 #### 3. Booleans
