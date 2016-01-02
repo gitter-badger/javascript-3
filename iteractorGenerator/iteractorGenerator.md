@@ -1,4 +1,4 @@
-## Iteractors and Generators [**Back**](./../README.md)
+## Iterators and Generators [**Back**](./../README.md)
 
 #### 1. Do not use iteractors
 
