@@ -21,7 +21,9 @@ const totalScore = String(reviewScore);
 ```js
 const inputValue = '4';
 
-
+/**
+ * bad
+ */
 ```
 
 #### 3. Booleans
