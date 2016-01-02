@@ -1,6 +1,6 @@
 ## References [**Back**](./../README.md)
 
-#### Use Const
+#### Use `const`
 - To use `const` for all of your references, and avoid using `var`.
 - Eslint rules tags: [`prefer-const`](http://eslint.org/docs/rules/prefer-const.html), [`no-const-assign`](http://eslint.org/docs/rules/no-const-assign.html)
 
@@ -19,5 +19,7 @@ var b = 2;
 const a = 1;
 const b = 2;
 ```
+
+#### Use `let`
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
