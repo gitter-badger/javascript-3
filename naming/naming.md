@@ -68,4 +68,6 @@ function foo() {
 }
 ```
 
+#### 5. Name the file with the class name
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
