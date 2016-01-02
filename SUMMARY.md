@@ -22,5 +22,5 @@
     * Use object destructuring
     * Use array destructuring
 6. [String](./string/string.md)
-    * Use single quote for string
+    * Use single quotes for string
     
