@@ -48,7 +48,15 @@ const heros = {
  */
 const heros = { class: 'alien' };
 
-};
+/**
+ * bad
+ */
+const heros = { klass: 'alien' };
+
+/**
+ * good
+ */
+const heros = { type: 'alien' };
 ```
 
 
