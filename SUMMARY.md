@@ -101,3 +101,4 @@
     23. [Events](./events/events.md)
 - Advanced
     1. [jQuery](./jquery/jquery.md)
+        * prefix $
