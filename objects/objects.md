@@ -28,7 +28,7 @@ const item = {};
  */
 const heros = {
     default: { name: 'aleen' },
-    private: true,
+    private: true
 };
 
 /**
