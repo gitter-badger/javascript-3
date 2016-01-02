@@ -170,4 +170,15 @@ count();    /** => 3    */
 
 - Always put default parameters last.
 
+```js
+/**
+ * bad
+ */
+function handleThings(opts = {}, name) {
+    /**
+     * ...
+     */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
