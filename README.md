@@ -27,6 +27,7 @@
 19. [**Commas & Semicolons**](./commasSemicolons/commasSemicolons.md)
 20. [**Type Casting**(類型轉換)** & Coercion**(強制多態)](./typeCastingCoerion/typeCastingCoerion.md)
 21. [**Naming**](./naming/naming.md)
+22. [**Accessors**](./accessors/accessors.md
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
