@@ -47,4 +47,6 @@ const dragonball = 'z';
 
 #### 3. Group all the `const` and `let`
 
+- To group all your `const` and `let` together.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
