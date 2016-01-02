@@ -49,7 +49,7 @@ function example() {
     anonymous();                /** TypeError   */
     
     var anonymous = function() {
-        console.log(anonymous function expression');
+        console.log('anonymous function expression');
     };
 }
 ```
