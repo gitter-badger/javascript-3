@@ -6,4 +6,15 @@
 
 > the reason is to ensure that you cannot reassign(重新訪問) references, which can lead to bugs and difficult to comprehend(理解) code.
 
+```js
+/**
+ * bad 
+ */
+
+/**
+ * good
+ */
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
