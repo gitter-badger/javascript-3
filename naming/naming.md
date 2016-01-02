@@ -91,6 +91,7 @@ import CheckBox from './CheckBox';
 ```
 
 - use camlcase to export a `function`
-- use pascalcase to export a `singleton` / `function library` / bare object.
+- use pascalcase to export a `singleton` / `function library` / `bare object`.
+- 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
