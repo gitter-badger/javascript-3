@@ -60,7 +60,13 @@
 - If the expression spans over multiple lines, wrap it in parentheses(圓括號) for better readability.
 
 ```js
-
+/**
+ * bad
+ */
+[1, 2, 3].map(number => 'As time went by, the string containing the ' +
+  `${number} became much longer. So we needed to break it over multiple ` +
+  'lines.'
+);
 ```
 
 
