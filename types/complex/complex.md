@@ -6,8 +6,8 @@
     - `function`
 
 ```js
-const foo = 1;
-let bar = foo;  /** number type */
+const foo = [1, 2];
+const bar = foo;  /** number type */
 
 bar = 9;
 
