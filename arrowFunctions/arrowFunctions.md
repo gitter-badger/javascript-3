@@ -29,6 +29,7 @@
 #### 2. Omit the braces(忽略大括號) and use the implicit(隱式) return
 
 - If the function body only has a single expression, feel free to omit the braces and use the implicit return. Otherwise, use a `return` statement.
+- Eslint rules tags: [`arrow-parens`](http://eslint.org/docs/rules/arrow-parens.html), [`arrow-body-style`](http://eslint.org/docs/rules/arrow-body-style.html)
 
 > Why? Syntactic sugar(語法糖). It reads well when multiple functions are chained together.
 > Why not? If you plan on returning an object.
