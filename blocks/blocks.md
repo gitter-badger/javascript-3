@@ -34,4 +34,9 @@ function () {
 
 #### 2. Closing braces
 
+- If using multi-line blocks with `if` and `else`, then put `else` on the same line of `if`
+
+```js
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
