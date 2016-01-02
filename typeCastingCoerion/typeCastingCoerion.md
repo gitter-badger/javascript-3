@@ -37,7 +37,7 @@ const val = Number(inputValue);
 const val = parseInt(inputValue, 10);
 ```
 
-- If for whatever reason you are doing something wild and parseInt is your bottleneck and need to use Bitshift for performance reasons, leave a comment explaining why and what you're doing.
+- If for whatever reason you are doing something wild and parseInt is your bottleneck(瓶頸) and need to use Bitshift for performance reasons, leave a comment explaining why and what you're doing.
 
 #### 3. Booleans
 
