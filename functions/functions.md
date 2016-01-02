@@ -273,6 +273,17 @@ function change(a) {
         a = 1;
     }
 }
+
+/**
+ * good
+ */
+function change(a) {
+    const b = a || 1;
+}
+
+function change(a = 1) {
+
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
