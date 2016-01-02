@@ -103,4 +103,6 @@ puiMan.jump()
 
 #### 4. `toString()`
 
+- it's ok to write a custom `toString()` method, and you should make sure it works without any side effects.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
