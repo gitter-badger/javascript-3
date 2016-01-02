@@ -39,4 +39,16 @@ this._firstName = 'PuiMan';
 
 - Do not save references to `this`, and use arrow functions or Function#bind instead.
 
+```js
+/**
+ * bad
+ */
+function foo() {
+    const self = this;
+    return function() {
+        console.log(self);
+    }
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
