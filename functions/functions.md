@@ -168,4 +168,6 @@ count(3);   /** => 3
 count();    /** => 3    */
 ```
 
+- Always put default parameters last.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
