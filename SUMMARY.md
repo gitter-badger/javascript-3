@@ -47,4 +47,4 @@
     * Do not use wildcart imports
     * Do not export directly from imports
 11. [Iterators and Generators](./iteractorGenerator/iteractorGenerator.md)
-    * Do not use iteractors
+    * Do not use iterators
