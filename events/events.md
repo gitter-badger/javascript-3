@@ -14,7 +14,7 @@ $(this).trigger('listingUpdated', listing.id);
 $(this).on('listingUpdated', function (e, listingId) {
     /**
      * Actions of handling the event
-     *
+     */
 });
 
 ```
