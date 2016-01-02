@@ -140,7 +140,12 @@ $('#items').
 /**
  * good
  */
-
+$('#items')
+    .find('.selected')
+        .highlight()
+        .end()
+    .find('.open')
+        .updateCount();
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
