@@ -67,8 +67,8 @@ $('.sidebar > ul').hide();
 
 <table>
     <thead>
-        <tr>Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit
-Test</tr>
+        Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit
+Test
     </thead>
     <tbody>
         <tr>
