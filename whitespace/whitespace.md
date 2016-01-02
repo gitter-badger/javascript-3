@@ -94,5 +94,28 @@ const x = y++;
 })(this);
 ```
 
+```js
+/**
+ * bad
+ */
+(function (global) {
+    /**
+     * ...
+     */
+})(this);↵
+↵
+```
+
+```js
+/**
+ * bad
+ */
+(function (global) {
+    /**
+     * ...
+     */
+})(this);↵
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
