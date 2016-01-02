@@ -62,6 +62,17 @@ const val = inputValue >> 0;
 
 ```js
 const age = 0;
+
+/**
+ * bad
+ */
+const hasAge = new Boolean(age);
+
+/**
+ * good
+ */
+const hasAge = Boolean(age);
+const hasAge = !!age;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
