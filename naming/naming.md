@@ -73,7 +73,7 @@ function foo() {
 ```js
 class CheckBox {
   /**
-   *
+   * ...
    */
 }
 ```
