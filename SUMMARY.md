@@ -18,3 +18,4 @@
     * Use push()
     * Use spread operator ...
     * Use from()
+5. [Destructuring](./destructuring/destructuring.md)
