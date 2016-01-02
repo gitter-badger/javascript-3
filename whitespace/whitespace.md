@@ -175,6 +175,8 @@ console.log('test');
 
 #### 5. Do not pad blocks with blank lines
 
+- Eslint rules tags: [`padded-blocks`](http://eslint.org/docs/rules/padded-blocks.html)
+
 ```js
 /**
  * bad
