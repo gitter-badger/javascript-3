@@ -89,6 +89,11 @@ class Aleen {
         this.jumping = true;
         return this;
     }
+    
+    setHeight(height) {
+        this.height = height;
+        return this;
+    }
 }
 ```
 
