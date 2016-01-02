@@ -6,6 +6,8 @@
 
 # Categories
 
+#### Base
+
 1. [**Types**](./types/types.md)
 2. [**References**](./references/references.md)
 3. [**Objects**](./objects/objects.md)
@@ -15,6 +17,9 @@
 7. [**Functions**](./functions/functions.md)
 8. [**Arrow Functions**](./arrowFunctions/arrowFunctions.md)
 9. [**Constructors**](./constructors/constructors.md)
+
+#### Advanced
+
 10. [**Modules**](./modules/modules.md)
 
 ## About me
