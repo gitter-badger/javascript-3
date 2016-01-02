@@ -68,4 +68,4 @@
     * More details
 16. [Blocks](./blocks/blocks.md)
     * Use braces
-    * Closing brace
+    * Closing braces
