@@ -84,5 +84,17 @@ select and find|```const has = $('article').find('ins').length > 0 ? true : fals
 
 - **Testing in Firefox 42.0 32-bit on Windows NT 10.0 64-bit**
 
+Type|Statements|Results(*Opts/sec*
+:---:|:---:|:---:
+`find` method (node context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
+context node|```const has = $('ins', article).length > 0 ? true : false;```|169,866 ± 10.33% (17% slower)
+context jQuery[0]|```const has = $('ins', $article[0]).length > 0 ? true : false;```|154,641 ± 6.12% (24% slower)
+cascade|```const has = $('article ins').length > 0 ? true : false;```|18,615 ± 1.80% (91% slower)
+'parent > child' selector|```const has = $('article > ins').length > 0 ? true : false;```|15,888 ± 5.97% (92% slower)
+context jQuery|```const has = $('ins', $article).length > 0 ? true : false;```| 10,120 ± 4.92% (95% slower)
+`find` method (jQuery context)|```const has = $($article).find('ins').length > 0 ? true : false;```|9,599 ± 1.84% (95% slower)
+context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|9,156 ± 4.45% (96% slower)
+select and find|```const has = $('article').find('ins').length > 0 ? true : false;```|7,046 ± 8.12% (97% **slowest**)
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
