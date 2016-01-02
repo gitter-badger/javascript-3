@@ -1,6 +1,6 @@
 ## Complex [**Back**](./../types.md)
 
-- When accessing a primitive type, you should work directly on its value.
+- When accessing a complex type, you should work on a reference its value.
     - `string`
     - `number`
     - `bool`
