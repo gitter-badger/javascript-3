@@ -9,6 +9,11 @@
 $(this).trigger('listingUpdated', listing.id);
 
 /**
+ * good
+ */
+$(this).trigger('listingUpdated', { listingId: listing.id });
+
+/**
  * Event
  */
 $(this).on('listingUpdated', function (e, listingId) {
