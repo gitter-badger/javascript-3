@@ -75,7 +75,7 @@ function example() {
     named();                /** TypeError, not a function       */
     
     var named = function named() {
-        console.log('f');
+        console.log('named');
     };
 }
 ```
