@@ -34,7 +34,8 @@ function () {
 
 #### 2. Closing braces
 
-- If using multi-line blocks with `if` and `else`, then put `else` on the same line of `if`
+- If using multi-line blocks with `if` and `else`, then put `else` on the same line of `if` block's closing braces.
+- Eslint rules tags: [`brace-style`](http://eslint.org/docs/rules/brace-style.html)
 
 ```js
 ```
