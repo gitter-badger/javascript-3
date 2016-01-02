@@ -1,7 +1,7 @@
 ## Commas & Semicolons [**Back**](./../README.md)
 
 - Add one space after each commas.
-- It's recommended that adding commas of each properties
+- It's recommended that adding commas of each properties, buy I'm familiar with the style that last property does not have the commas.
 - Eslint rules tags: [`comma-dangle`](http://eslint.org/docs/rules/comma-dangle.html)
 
 ```js
