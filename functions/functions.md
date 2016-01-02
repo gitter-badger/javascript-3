@@ -234,6 +234,8 @@ const y = function a() {};
 
 #### 7. Never mutate parameters
 
+- Do not to manipulating objects passed in as parameters to mutate them.
 
+> the reason is that this can cause unwanted variable side effects in the original caller.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
