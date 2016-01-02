@@ -141,7 +141,9 @@ function handleThings(opts) {
  * good
  */
 function handleThings(opts = {}) {
-
+    /**
+     * ...
+     */
 }
 ```
 
