@@ -19,4 +19,6 @@ const name = 'PuiMan Cheui';
 
 #### 2. Multiple lines when too many characters
 
+- Strings that cause the line to go over **100** characters should be written across multiple lines using string concatenation.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
