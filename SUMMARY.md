@@ -83,3 +83,4 @@
 19. [Commas & Semicolons](./commasSemicolons/commasSemicolons.md)
     * Commas
     * Semicolons
+20. [Type Casting & Coercion](./typeCastingCoerion/typeCastingCoerion.md)
