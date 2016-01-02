@@ -16,6 +16,13 @@ Queue.prototype.pop = function () {
     this._que.splice(0, 1);
     return value;
 }
+
+/**
+ * good
+ */
+class Queue {
+
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
