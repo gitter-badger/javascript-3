@@ -86,4 +86,14 @@ function example() {
 
 - Function declarations hoist both the name and the function body.
 
+```js
+function example() {
+    f();
+    
+    function f() {
+        console.log('f');
+    }
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
