@@ -51,4 +51,24 @@ const dragonball = 'z';
 
 > the reason is that it's helpful to find when later on you need to assign a variable depending on one of the previous assigned variables.
 
+```js
+/**
+ * bad
+ */
+let i;
+const items = getItems();
+let dragonball;
+const goSportsTeam = true;
+let len;
+
+/**
+ * good
+ */
+const items = getItems();
+const goSportsTeam = true;
+let i;
+let dragonball;
+let len;
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
