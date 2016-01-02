@@ -36,7 +36,7 @@ if (!dragon.hasAge()) {
 }
 ```
 
-#### 3. `get()` and `set()`
+#### 3. Use `get()` and `set()`
 
 - It's ok to create `get()` and `set()`, but be consistent.
 
