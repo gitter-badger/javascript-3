@@ -56,6 +56,7 @@ export { es6 as default } from './StyleGuide';
  * good
  */
 import { es6 } from './StyleGuide';
+export default es6;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
