@@ -114,6 +114,10 @@ class Aleen {
     getName() {
         return this.name;
     }
+    
+    toString() {
+        return `Aleen - ${this.getName()}`
+    }
 }
 ```
 
