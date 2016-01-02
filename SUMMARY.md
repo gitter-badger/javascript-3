@@ -8,6 +8,6 @@
 3. [Objects](./objects/objects.md)
     * Use {}
     * Do not use reserved words
-    * 
+    * Use computed property names
     * 
     * 
