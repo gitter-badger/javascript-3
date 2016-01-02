@@ -18,5 +18,7 @@ dragon.getAge();
 dragon.setAge(25);
 ```
 
+### 2. use `isVal()` or `hasVal()`
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
