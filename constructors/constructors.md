@@ -68,7 +68,10 @@ class PeekableQueue extends Queue {
 /**
  * bad
  */
-Aleen.prototype
+Aleen.prototype.jump = function () {
+    this.jumping = true;
+    return true;
+}
 
 ```
 
