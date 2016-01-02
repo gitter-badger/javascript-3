@@ -77,6 +77,15 @@
 ));
 ```
 
+#### 3. Omit the parentheses(忽略圓括號)
+
+- If your function only takes a single argument, feel free to omit the parentheses.
+- Eslint rules tags: [`arrow-parens`](http://eslint.org/docs/rules/arrow-parens.html)
+- 
+```js
+
+```
+
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
