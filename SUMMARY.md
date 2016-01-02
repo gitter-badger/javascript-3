@@ -45,3 +45,4 @@
 10. [Modules](./modules/modules.md)
     * Use modules
     * Do not use wildcart imports
+    * Do not export directly from imports
