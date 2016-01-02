@@ -91,3 +91,4 @@
     * Use camelcase
     * Use pascalcase
     * Use a leading underscore _
+    * Do not save references to this
