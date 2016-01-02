@@ -18,7 +18,7 @@ const hero = new Hero();
 
 #### 2. Use one `const` declaration per variable
 
-- Eslint rules tags: [``](http://eslint.org/docs/rules/one-var.html)
+- Eslint rules tags: [`one-var`](http://eslint.org/docs/rules/one-var.html)
 
 > the reason is that it's easier to add new variable declaration, and you don't have to worry about swapping out a `;` or `,`.
 
