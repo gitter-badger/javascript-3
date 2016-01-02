@@ -11,6 +11,13 @@
 
 ```js
 /**
+ * bad
+ */
+function test(){
+    console.log('test');
+}
+
+/**
  * good
  */
 function test() {
