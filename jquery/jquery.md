@@ -97,5 +97,4 @@ select and find|```const has = $('article').find('ins').length > 0 ? true : fals
 context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|9,156 ± 4.45% (96% slower)
 
 
-
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
