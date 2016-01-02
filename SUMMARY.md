@@ -34,4 +34,5 @@
     * Never use the Function constructor
     * Spacing
     * Never mutate parameters
+8. [Arrow Function](./arrowFunctions/arrowFunctions.md)
     
