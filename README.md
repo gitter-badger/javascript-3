@@ -23,6 +23,7 @@
 15. [**Comparison Operators & Equality**](./comparison/comparison.md)
 16. [**Blocks**](./blocks/blocks.md)
 17. [**Comments**](./comment/comment.md)
+18. [Whitespace](./whitespace/whitespace.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
