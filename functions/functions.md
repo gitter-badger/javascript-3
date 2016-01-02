@@ -84,6 +84,8 @@ function yup(name, options, args) {
 
 - More importantly, you won't never use `arguments`, opt to use rest syntax `...` instead.
 
+> the reason is that `...` is explicit about which arguments you want pulled. Plus rest arguments are a real Array and not Array-like like `arguments`.
+
 ```js
 /**
  * bad
@@ -92,6 +94,10 @@ function concatenateAll() {
     const args = Array.prototype.slice.all(arguments);
     return args.join(' ');
 }
+
+/**
+ * good
+ */
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
