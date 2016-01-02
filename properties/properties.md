@@ -36,7 +36,7 @@ function getProperty(prop) {
     return Aleen[prop];
 }
 
-getProperty('name');
+const name = getProperty('name');
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
