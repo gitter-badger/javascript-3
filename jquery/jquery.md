@@ -74,6 +74,7 @@ $('.sidebar > ul').hide();
             <td>type</td>
             <td>statements</td>
             <td>results</td>
+            
         </tr>
     </tbody>
 </table>
