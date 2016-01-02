@@ -8,6 +8,16 @@
 
 > the reason is that destructuring can save from creating temporary references for those properties.
 
-
+```js
+/**
+ * bad
+ */
+function getFullName(user) {
+    const firstName = user.firstName;
+    const lastName = user.lastName;
+    
+    return firstName + ' ' + lastName;
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
