@@ -43,4 +43,4 @@
     * Use return this
     * toString()
 10. [Modules](./modules/modules.md)
-    * Use class
+    * Use modules
