@@ -27,6 +27,12 @@ const inputValue = '4';
 const val = new Number(inputValue);
 const val = +inputValue;
 const val = parseInt(inputValue);
+
+/**
+ * good
+ */
+const val = Number(inputValue);
+const val = parseInt(inputValue, 10);
 ```
 
 #### 3. Booleans
