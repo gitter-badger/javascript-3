@@ -13,4 +13,13 @@
     - **Numbers** evaluate to **false** if **+0**, **-0**, or **Nan**, otherwise **true**
     - **Strings** evaluate to **false** if an empty string `''`, otherwise ** true**.
 
+```js
+if ([false]) {
+    /**
+     * true
+     * because this is an object
+     */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
