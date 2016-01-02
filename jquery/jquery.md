@@ -75,7 +75,7 @@ $('.sidebar > ul').hide();
 	</thead>
     <tbody>
         <tr>
-            <td>type</td>
+            <td>find method(node context)</td>
             <td>statements</td>
             <td>results</td>
         </tr>
@@ -83,6 +83,6 @@ $('.sidebar > ul').hide();
 </table>
 type|statements|results
 :--:|:--------:|:-----:
-find method(node context)|```const has = $(artical).find('ins').length > 0 ? true : false```
+|```const has = $(artical).find('ins').length > 0 ? true : false```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
