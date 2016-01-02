@@ -33,4 +33,5 @@
     * Use default parameter syntax
     * Never use the Function constructor
     * Spacing
+    * Never mutate parameters
     
