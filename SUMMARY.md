@@ -21,3 +21,4 @@
 5. [Destructuring(解構)](./destructuring/destructuring.md)
     * Use object destructuring
     * Use array destructuring
+6. [String](./string/string.md)
