@@ -102,3 +102,4 @@
 - Advanced
     1. [jQuery](./jquery/jquery.md)
         * Prefix $
+        * Performance of different selectors
