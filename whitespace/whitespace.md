@@ -29,7 +29,12 @@ function test() {
 - Eslint rules tags: [`space-after-keywords`](http://eslint.org/docs/rules/space-after-keywords.html), [`space-before-keywords`](http://eslint.org/docs/rules/space-before-keywords.html)
 
 ```js
-
+/**
+ * bad
+ */
+if(isAleen) {
+    console.log('Yo.');
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
