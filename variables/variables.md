@@ -16,4 +16,6 @@ hero = new Hero();
 const hero = new Hero();
 ```
 
+#### 2. Use one `const` declaration per variable
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
