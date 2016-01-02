@@ -26,6 +26,9 @@ const foo() {
 /**
  * immediately-invoked function expression (IIFE)
  */
+(() => {
+    console.log('Welcome to the Internet. Please follow me.');
+})();
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
