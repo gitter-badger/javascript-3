@@ -9,7 +9,8 @@
 /**
  * bad
  */
- 
+const item = new Object();
+
 /**
  * good
  */
