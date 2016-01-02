@@ -81,6 +81,8 @@ const x = y++;
 
 #### 2. End files
 
+- To end files with a single newline character.
+
 ```js
 /**
  * bad
