@@ -43,7 +43,15 @@
 - Anonymous function expressions hoist their variable name, but not the function assignment.
 
 ```js
-
+function example() {
+    console.log(anonymous);     /** undefined   */
+    
+    anonymous();                /** TypeError   */
+    
+    var anonymous = function() {
+        console.log(anonymous function expression');
+    };
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
