@@ -118,7 +118,9 @@ function handleThings(opts) {
      * be what you want but it can introduce subtle bugs.
      */
     opts = opts || {};
-    // ...
+    /**
+     * ...
+     */
 }
 
 ```
