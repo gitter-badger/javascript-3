@@ -30,6 +30,14 @@ const heros = {
     default: { name: 'aleen' },
     private: true,
 };
+
+/**
+ * good
+ */
+const hers = {
+    defaults: { name: 'aleen' },
+    hidden: true
+};
 ```
 
 
