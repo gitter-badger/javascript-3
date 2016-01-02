@@ -102,4 +102,5 @@
 - Advanced
     1. [jQuery](./jquery/jquery.md)
         * Prefix $
+        * Cache jQuery object
         * Performance of different selectors
