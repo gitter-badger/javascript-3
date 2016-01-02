@@ -18,4 +18,6 @@ const hero = new Hero();
 
 #### 2. Use one `const` declaration per variable
 
+> the reason is that it's easier to add new variable declaration, and you don't have to worry about swapping out a `;` or `,`.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
