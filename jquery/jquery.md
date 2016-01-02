@@ -67,7 +67,7 @@ $('.sidebar > ul').hide();
 
 - **Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit**
 
-Type|Statements|Results(*opts/sec*
+Type|Statements|Results(*Opts/sec*
 :---:|:---:|:---:
 `find` method (**node** context)|```const has = $(artical).find('ins').length > 0 ? true : false```|
 <table>
