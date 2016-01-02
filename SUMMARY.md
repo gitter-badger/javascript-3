@@ -26,4 +26,5 @@
     * Multiple lines when too many characters
     * Use template strings
     * Do not use eval()
+7. 
     
