@@ -90,6 +90,11 @@ const obj = {
 };
 ```
 
-- *Notice that: computed properties are only supported by ECMAScript 6 (ES6)* 
+- *Notice that: computed properties are only supported by ECMAScript 6 (ES6)*
+
+#### Use shorthand
+
+- To use object method shorthand.
+- Eslint rules tags: 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
