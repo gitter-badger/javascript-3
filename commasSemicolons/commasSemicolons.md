@@ -14,6 +14,23 @@ const items = [1,2,3];
  * good
  */
 const items = [1, 2, 3];
+
+/**
+ * recommended
+ */
+const obj = {
+    name: 'Aleen',
+    age: '22',
+};
+
+/**
+ * familar one
+ */
+const obj = {
+    name: 'Aleen',
+    age: '22'
+};
+
 ```
 
 - Eslint rules tags: [`semi`](http://eslint.org/docs/rules/semi.html)
