@@ -21,7 +21,7 @@ Queue.prototype.pop = function () {
  * good
  */
 class Queue {
-
+    
 }
 ```
 
