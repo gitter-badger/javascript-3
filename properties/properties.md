@@ -15,6 +15,11 @@ const Aleen = {
  * bad
  */
 const name = Aleen['name'];
+
+/**
+ * good
+ */
+const name = Aleen.name;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
