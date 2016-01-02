@@ -37,7 +37,19 @@ const obj = {
 
 #### 2. Semicolons
 
-- 
+- Add semicolons after each statements.
 - Eslint rules tags: [`semi`](http://eslint.org/docs/rules/semi.html)
+
+```js
+/**
+ * bad
+ */
+const i = 1
+
+/**
+ * good
+ */
+const i = 1;
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
