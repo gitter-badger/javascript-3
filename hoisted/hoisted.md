@@ -88,7 +88,7 @@ function example() {
 
 ```js
 function example() {
-    f();
+    f();            /** => f    */
     
     function f() {
         console.log('f');
