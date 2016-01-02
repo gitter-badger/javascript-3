@@ -84,4 +84,14 @@ function yup(name, options, args) {
 
 - More importantly, you won't never use `arguments`, opt to use rest syntax `...` instead.
 
+```js
+/**
+ * bad
+ */
+function concatenateAll() {
+    const args = Array.prototype.slice.all(arguments);
+    return args.join(' ');
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
