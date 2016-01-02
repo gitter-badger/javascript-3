@@ -73,7 +73,7 @@ Aleen.prototype.jump = function () {
     return true;
 }
 
-Aleen.prototype.setHeight = function () {
+Aleen.prototype.setHeight = function (height) {
     this.height = height;
 }
 
