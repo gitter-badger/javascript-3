@@ -32,6 +32,6 @@ function () {
 }
 ```
 
-#### 2. Closing brace
+#### 2. Closing braces
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
