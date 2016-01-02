@@ -10,6 +10,14 @@
  * let and const
  */
 {
+    /**
+     * In ECMAScript 2015, let will hoist the variable
+     * to the top of the block. However, referencing the 
+     * variable in the block before the variable declaration 
+     * results in a ReferenceError. 
+     * The variable is in a "temporal dead zone"
+     * from the start of the block until the
+     * declaration is processed.
     console.log(foo); // ReferenceError
     let foo = 2;
 }
