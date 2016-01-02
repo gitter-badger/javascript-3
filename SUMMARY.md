@@ -35,4 +35,5 @@
     * Spacing
     * Never mutate parameters
 8. [Arrow Functions](./arrowFunctions/arrowFunctions.md)
+    * Use arrow functions notation
     
