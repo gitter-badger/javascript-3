@@ -45,6 +45,6 @@ const goSportsTeam = true;
 const dragonball = 'z';
 ```
 
-
+#### 3. Group all the `const` and `let`
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
