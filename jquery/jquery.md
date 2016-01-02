@@ -1,6 +1,6 @@
 ## jQuery [**Back**](./../README.md)
 
-#### 1. prefix `$`
+#### 1. Prefix `$`
 
 - Prefix jQuery objects variables with `$`
 
