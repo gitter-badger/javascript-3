@@ -34,4 +34,11 @@
 > Why? Syntactic sugar(語法糖). It reads well when multiple functions are chained together.
 > Why not? If you plan on returning an object.
 
+```js
+/**
+ * good
+ */
+[1, 2, 3].map(number => `A string containing the ${number}.`);
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
