@@ -37,4 +37,13 @@ class Queue {
 
 > the reason is that it's a built-in way to inherit prototype functionality without breaking `instancof`
 
+```js
+/**
+ * bad
+ */
+const inherits = require('inherits');
+
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
