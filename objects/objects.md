@@ -120,5 +120,6 @@ const atom = {
 ```
 
 - To use property value shorthand.
+- Eslint rules tags: [`object-shorthand`](http://eslint.org/docs/rules/object-shorthand.html)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
