@@ -29,9 +29,7 @@ const b = 2;
  * bad
  */
 var count = 1;
-if (true) {
-    count += 1;
-}
+count = count? count + 1 : count;
  
 /**
  * good
