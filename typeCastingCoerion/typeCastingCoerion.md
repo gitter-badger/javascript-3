@@ -4,10 +4,16 @@
 
 ```js
 const reviewScrore = 9;
+
 /**
  * bad
  */
-const totalScore = 
+const totalScore = reviewScore + '';
+
+/**
+ * good
+ */
+const totalScore = String(reviewScore);
 ```
 
 #### 2. Numbers
