@@ -261,6 +261,12 @@ function change(obj) {
 > the reason is that reassigning parameters can lead to unexpected behavior, especially when accessing the arguments object. It can also cause optimization issues, especially in V8.
 
 ```js
+/**
+ * bad
+ */
+function change(a) {
+    a = 1;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
