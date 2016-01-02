@@ -73,3 +73,4 @@
     * Function comments
     * Structural comments
     * Helping comments
+    * Header comments of files
