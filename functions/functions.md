@@ -238,6 +238,13 @@ const y = function a() {};
 
 > the reason is that this can cause unwanted variable side effects in the original caller.
 
-
+```js
+/**
+ * bad
+ */
+function change(obj) {
+    obj.key = 1;
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
