@@ -49,6 +49,12 @@ const val = inputValue >> 0;
 ```
 - *Notice that: when using Bitshift, you should care more about the problem of overflow*
 
+```js
+/**
+ * Largest signed 32-bit Int is 2,147,483,647
+ */
+```
+
 #### 3. Booleans
 
 
