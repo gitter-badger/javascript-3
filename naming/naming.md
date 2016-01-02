@@ -94,7 +94,10 @@ import CheckBox from './CheckBox';
 - use pascalcase to export a `singleton` / `function library` / `bare object`.
 
 ```js
+function makeStyleGuide() {
+}
 
+export default makeStyleGuide;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
