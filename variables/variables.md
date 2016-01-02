@@ -92,6 +92,20 @@ function (hasName) {
     
     return true;
 }
+
+/**
+ * good
+ */
+function (hasName) {
+    if (!hasName) {
+        return false;
+    }
+    
+    const name = getName();
+    this.setFirstName(name);
+    
+    return true;
+}
 ```
 
 
