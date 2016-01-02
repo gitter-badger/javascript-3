@@ -50,3 +50,4 @@
     * Do not use iterators
     * Do not use generators for now (reserved)
 12. [Properties](./properties/properties.md)
+    * Use dot notation
