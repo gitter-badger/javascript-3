@@ -55,6 +55,6 @@ const errorMessage = `This is a super long error that was thrown because
 
 - When programmatically building up strings, use template strings instead of concatenation.
 
-> the reason is that template strings give you a readable, concise(簡練的) syntax with proper newlines and string interpolation features.
+> the reason is that template strings give you a readable, concise(簡練的) syntax with proper newlines and string interpolation(內插) features.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
