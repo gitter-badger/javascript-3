@@ -71,6 +71,15 @@ function nope(name, options, arguments) {
      *  ...stuff...
      */
 }
+
+/**
+ * good
+ */
+function yup(name, options, args) {
+    /**
+     *  ...stuff...
+     */
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
