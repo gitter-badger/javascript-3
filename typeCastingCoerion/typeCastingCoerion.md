@@ -7,7 +7,6 @@ const reviewScrore = 9;
 /**
  * bad
  */
-
 const totalScore = 
 ```
 
