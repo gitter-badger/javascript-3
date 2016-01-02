@@ -6,8 +6,6 @@
 
 # Categories
 
-#### Base 
-
 1. [**Types**](./types/types.md)
 2. [**References**](./references/references.md)
 3. [**Objects**](./objects/objects.md)
