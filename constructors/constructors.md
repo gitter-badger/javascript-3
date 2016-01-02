@@ -101,6 +101,6 @@ puiMan.jump()
     .setHeight(20);
 ```
 
-#### 4. toString()
+#### 4. `toString()`
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
