@@ -49,4 +49,6 @@ const dragonball = 'z';
 
 - To group all your `const` and `let` together.
 
+> the reason is that it's helpful to find when later on you need to assign a variable depending on one of the previous assigned variables.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
