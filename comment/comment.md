@@ -1,4 +1,4 @@
-## Blocks [**Back**](./../README.md)
+## Comments [**Back**](./../README.md)
 
 #### 1. Use braces
 
