@@ -20,7 +20,7 @@ dragon.setAge(25);
 
 ### 2. use `isVal()` or `hasVal()`
 
-- To use `isVal()` or `hasVal()` when the property is a `boolean`
+- To use `isVal()` or `hasVal()` when the property is a `boolean`.
 
 ```js
 /**
