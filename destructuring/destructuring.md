@@ -70,7 +70,10 @@ function processInput(input) {
     return { left, right, top, bottom };
 }
 
-
+/**
+ * the caller selects only the data they need
+ */
+const { left, right } = processInput(input);
 ```
 
 #### 2. Use array destructuring
