@@ -96,3 +96,4 @@
 22. [Accessors](./accessors/accessors.md)
     * Use getVal() and setVal(val)
     * Use isVal() or hasVal()
+    * get() and set()
