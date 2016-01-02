@@ -5,3 +5,4 @@
 - Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
 
 # Categories
+- [**type**](./type/type.md)
