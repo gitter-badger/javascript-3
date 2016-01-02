@@ -16,5 +16,13 @@
     const y = x + 1;
     return x * y;
 });
+
+/**
+ * good
+ */
+[1, 2, 3].map((x) => {
+    const y = x + 1;
+    return x * y;
+});
 ```
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
