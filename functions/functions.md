@@ -192,7 +192,7 @@ function handleThings(name, opts = {}) {
 
 #### 5. Never use the `Function` constructor
 
-- Never use the Function constructor to create a new function.
+- Never use the `Function` constructor to create a new function.
 
 > the reason like using `eval()` on a string, is that creating a function in this way will open vulnerabilities.
 
