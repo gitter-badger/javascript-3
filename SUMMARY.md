@@ -66,3 +66,4 @@
     * Conditional statements
     * Use shortcuts
     * More details
+16. [Blocks](./blocks/blocks.md)
