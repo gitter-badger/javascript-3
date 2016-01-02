@@ -107,6 +107,16 @@ const atom = {
         return atom.value + value;
     }
 };
+
+/**
+ * good
+ */
+const atom = {
+    value: 1,
+    addValue(value) {
+        return atom.value + value;
+    }
+};
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
