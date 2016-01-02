@@ -22,4 +22,10 @@ const name = 'PuiMan Cheui';
 - Strings that cause the line to go over **100** characters should be written across multiple lines using string concatenation.
 - *Note that: if overused, long strings with concatenation could impact performance. [jsPerf](http://jsperf.com/ya-string-concat) & [Discussion](https://github.com/airbnb/javascript/issues/40).*
 
+```js
+/**
+ * bad
+ */
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
