@@ -38,4 +38,6 @@ let count = 1;
 count = count? count + 1 : count;
 ```
 
+- *Notice that: both `const` and `let` are block-scoped(塊作用域)*
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
