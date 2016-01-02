@@ -42,4 +42,8 @@ function getFullName({firstName, lastName}) {
 }
 ```
 
+#### 2. Use array destructuring
+
+- To use array destructuring like object destructuring.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
