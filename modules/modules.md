@@ -40,6 +40,6 @@ import * as StyleGuide from './StyleGuide'
 import StyleGuide from './StyleGuide'
 ```
 
-#### 3. Do not export directly from import
+#### 3. Do not export directly from imports
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
