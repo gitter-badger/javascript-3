@@ -81,3 +81,5 @@
     * Leave a blank line after blocks and before the next statement
     * Do not pad blocks with blank lines
 19. [Commas & Semicolons](./commasSemicolons/commasSemicolons.md)
+    * Commas
+    * Semicolons
