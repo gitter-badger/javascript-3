@@ -88,3 +88,5 @@
     * Numbers
     * Booleans
 21. [Naming](./naming/naming.md)
+    * Use camelCase
+    * Use PascalCase
