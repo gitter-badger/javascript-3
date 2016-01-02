@@ -84,6 +84,6 @@ function example() {
 
 #### 3. Function declarations
 
-
+- Function declarations hoist both the name and the function body.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
