@@ -112,7 +112,8 @@ class Aleen extends Hero {
  *
  *      - Document:     <file name>
  *      - Author:       <author name>
- *      - Description:  <description> 
+ *      - Description:  <description, which shoule be multi-line
+ *                       when it's too long> 
  *      - Create Time:  <created time of this file>
  *      - Update Time:  <updated time of this file>
  *
