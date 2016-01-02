@@ -147,4 +147,23 @@ function handleThings(opts = {}) {
 }
 ```
 
+- *Notice that: avoid side effects with default parameters.*
+
+```js
+var b = 1;
+
+/**
+ * bad
+ */
+function count(a = b++) {
+    console.log(a);
+}
+
+count();    /** => 1    **/
+count();    /** => 2    **/
+count(3);   /** => 3    **/
+count();    /** => 4    **/
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
