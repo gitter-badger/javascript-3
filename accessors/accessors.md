@@ -1,5 +1,7 @@
 ## Accessors [**Back**](./../README.md)
 
+- Accessors functions for properties are not required.
+
 #### 1. 
 
 
