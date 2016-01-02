@@ -71,4 +71,4 @@
     * Closing braces
 17. [Comments](./comment/comment.md)
     * Function comments
-    * Branch structural comments
+    * Branched structural comments
