@@ -107,4 +107,6 @@ function concatenateAll(...args) {
 
 - To use default parameter syntax rather than mutating(使...變異) function arguments.
 
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
