@@ -94,5 +94,5 @@
     * Do not save references to this
     * Name the file with the class name
 22. [Accessors](./accessors/accessors.md)
-    * use getVal() and setVal(val)
-    * use isVal() or hasVal()
+    * Use getVal() and setVal(val)
+    * Use isVal() or hasVal()
