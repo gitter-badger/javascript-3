@@ -26,6 +26,6 @@
 });
 ```
 
-#### 2. Omit the braces(忽略大括號) and use the implict(隱式) return
+#### 2. Omit the braces(忽略大括號) and use the implicit(隱式) return
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
