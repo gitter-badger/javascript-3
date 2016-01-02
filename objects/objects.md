@@ -34,7 +34,7 @@ const heros = {
 /**
  * good
  */
-const hers = {
+const heros = {
     defaults: { name: 'aleen' },
     hidden: true
 };
