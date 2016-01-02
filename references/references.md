@@ -28,6 +28,10 @@ const b = 2;
 /**
  * bad
  */
+var count = 1;
+if (true) {
+    count += 1;
+}
  
 /**
  * good
