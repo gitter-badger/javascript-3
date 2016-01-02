@@ -19,6 +19,7 @@
 11. [**Iterators and Generators**](./iteratorGenerator/iteratorGenerator.md)
 12. [**Properties**](./properties/properties.md)
 13. [**Variables**](./variables/variables.md)
+14. [Hoisted(變量聲明提升)](./hoisted/hoisted.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
