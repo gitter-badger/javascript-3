@@ -34,6 +34,8 @@ count = count? count + 1 : count;
 /**
  * good
  */
+let count = 1;
+count = count? count + 1 : count;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
