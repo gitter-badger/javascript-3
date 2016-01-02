@@ -71,6 +71,8 @@ for (len i = 0; i < 10; i++) {
 
 #### 3. Helping comments
 
+- `FIXME`: it's used to annotate(注釋) problems.
+- `TODO`: it's used to annotate solutions to problems.
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
