@@ -65,4 +65,19 @@ const heros = { type: 'alien' };
 
 > the reason is that they allow you to define all the properties of an object in one place.
 
+```js
+function geyKey(k) {
+    return `${k}`;
+}
+
+
+/**
+ * bad
+ */
+const obj = {
+    id: 5,
+    name: 'Foshan'
+};
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
