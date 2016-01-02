@@ -159,14 +159,13 @@ function count(a = b++) {
     console.log(a);
 }
 
-count();    /** => 1    **/
-count();    /** => 2    **/
-
-/**
- * when a is assigned, b will not increase itself
- */
-count(3);   /** => 3    **/
-count();    /** => 3    **/
+count();    /** => 1    */
+count();    /** => 2    */
+count(3);   /** => 3    
+             * when a is assigned,
+             * b will not increase itself
+             */
+count();    /** => 3    */
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
