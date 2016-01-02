@@ -60,5 +60,8 @@ const val = inputValue >> 0;
 
 #### 3. Booleans
 
+```js
+
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
