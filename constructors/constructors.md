@@ -35,6 +35,20 @@ class Queue {
 
 - name your class with the uppercase character.
 
+```js
+/**
+ * bad
+ */
+class puiManCheui {
+}
+
+/**
+ * good
+ */
+class PuiManCheui {
+}
+```
+
 #### 2. Use `extends` for inheritance
 
 > the reason is that it's a built-in way to inherit prototype functionality without breaking `instancof`
