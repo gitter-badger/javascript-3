@@ -56,4 +56,16 @@ function example() {
 
 - Named function expressions hoist the variable name, not the function name or the function body.
 
+```js
+function example() {
+    console.log(named);     /** undefined                   */
+    
+    named();                /** TypeError, not a function   */
+    
+    var named = function f() {
+        console.log('anonymous function expression');
+    };
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
