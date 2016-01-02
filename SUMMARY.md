@@ -31,6 +31,6 @@
     * Do not declare functions in a non-function block
     * Never name a parameter arguments
     * Use default parameter syntax
-    * Never use the function constructor
+    * Never use the Function constructor
     * Spacing
     
