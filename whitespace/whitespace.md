@@ -130,6 +130,7 @@ $('#items').find('.selected').highlight().end().find('.open').updateCount();
 /**
  * bad
  */
+
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
