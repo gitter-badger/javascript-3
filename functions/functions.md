@@ -107,6 +107,18 @@ function concatenateAll(...args) {
 
 - To use default parameter syntax rather than mutating(使...變異) function arguments.
 
+```js
+/**
+ * really bad
+ */
+function handleThings(opts) {
+    // No! We shouldn't mutate function arguments.
+    // Double bad: if opts is false it'll be set to an object which may
+    // be what you want but it can introduce subtle bugs.
+    opts = opts || {};
+    // ...
+}
 
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
