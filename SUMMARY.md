@@ -71,7 +71,7 @@
     * Closing braces
 17. [Comments](./comment/comment.md)
     * Function comments
-    * Structural comments
+    * Control statements
     * Helping comments
     * Header comments of files
 18. [Whitespace](./whitespace/whitespace.md)
