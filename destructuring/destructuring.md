@@ -23,6 +23,12 @@ function getFullName(user) {
  * good
  */
 function getFullName(user) {
+    /**
+     * you can change variables' name as follow:
+     *  const {firstName: fName, lastName: lName} = user;
+     * then you can return as follow:
+     *  return fName + ' ' + lName; 
+     */
     const {firstName, lastName} = user;
     
     return firstName + ' ' + lastName;
