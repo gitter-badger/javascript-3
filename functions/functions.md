@@ -125,7 +125,7 @@ function handleThings(opts) {
 }
 
 /**
- * bad
+ * still bad
  */
 function handleThings(opts) {
     if (opts === void 0) {
@@ -136,6 +136,10 @@ function handleThings(opts) {
      * ...
      */
 }
+
+/**
+ * good
+ */
 
 ```
 
