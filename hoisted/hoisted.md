@@ -96,7 +96,7 @@ function example() {
 }
 ```
 
-#### 4. more details
+#### 4. More details
 
 - [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting/) by [Ben Cherry](http://www.adequatelygood.com/).
 
