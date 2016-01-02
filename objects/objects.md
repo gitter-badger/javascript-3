@@ -20,7 +20,7 @@ const item = {};
 #### Do not use `reserved words`
 - If your code will be executed in browsers in script context, remember that it's not recommended to use reserved words as keys.
 
-> the reason is that they won't work in IE8, but is's OK to use them in ES6 modules and server-side code.
+> the reason is that they won't work in IE8, but it's OK to use them in ES6 modules and server-side code.
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
