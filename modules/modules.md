@@ -16,6 +16,12 @@ module.exports = styleGuide.es6;
  */
 import styleGuide from './styleGuide';
 export default styleGuide.es6;
+
+/**
+ * best
+ */
+import { es6 } from './styleGuide';
+export default es6;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
