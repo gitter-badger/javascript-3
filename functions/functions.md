@@ -190,7 +190,7 @@ function handleThings(name, opts = {}) {
 }
 ```
 
-#### 5. Never use the Function constructor
+#### 5. Never use the `Function` constructor
 
 - Never use the Function constructor to create a new function.
 
