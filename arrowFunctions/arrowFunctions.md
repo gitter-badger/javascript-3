@@ -90,6 +90,4 @@
 [1, 2, 3].map((x, y) => x + y);
 ```
 
-
-
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
