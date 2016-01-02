@@ -33,4 +33,8 @@ const foo() {
 
 - *Notice that: arrow functions are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#Browser_compatibility)*
 
+#### 2. Do not declare functions in a non-function block
+
+- Never declare a function in a non-function block (if, while, etc). Assign the function to a variable instead. Browsers will allow you to do it, but they all interpret it differently, which is bad news bears.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
