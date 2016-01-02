@@ -84,3 +84,6 @@
     * Commas
     * Semicolons
 20. [Type Casting(類型轉換) & Coercion(強制多態)](./typeCastingCoerion/typeCastingCoerion.md)
+    * Strings
+    * Numbers
+    * Booleans
