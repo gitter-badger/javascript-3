@@ -99,7 +99,7 @@
     * Use get() and set()
 23. [Events](./events/events.md)
 24. [jQuery](./jquery/jquery.md)
-        * Prefix $
-        * Cache jQuery object
-        * Use Cascading or parent > child
-        * Performance of different selectors
+    * Prefix $
+    * Cache jQuery object
+    * Use Cascading or parent > child
+    * Performance of different selectors
