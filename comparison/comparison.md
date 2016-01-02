@@ -42,6 +42,24 @@ if (name) {
      * ...
      */
 }
+
+/**
+ * bad
+ */
+if (collections.length > 0) {
+    /**
+     * ...
+     */
+}
+
+/**
+ * good
+ */
+if (collections.length) {
+    /**
+     * ...
+     */
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
