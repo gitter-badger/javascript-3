@@ -31,6 +31,10 @@ const Aleen = {
     name: 'PuiMan Cheui',
     age: '22'
 };
+
+function getProperty(prop) {
+    return Aleen[prop];
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
