@@ -161,6 +161,10 @@ function count(a = b++) {
 
 count();    /** => 1    **/
 count();    /** => 2    **/
+
+/**
+ * when a is assigned, b will not increase itself
+ */
 count(3);   /** => 3    **/
 count();    /** => 3    **/
 ```
