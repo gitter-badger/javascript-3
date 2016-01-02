@@ -7,4 +7,11 @@
     - `null`
     - `undefined`
 
+```js
+const foo = 1;
+let bar = foo;  /** number type */
+
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../pic/tail.gif"></a>
