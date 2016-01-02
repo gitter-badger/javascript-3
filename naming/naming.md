@@ -1,6 +1,6 @@
 ## Naming [**Back**](./../README.md)
 
-#### 1. Use camelCase
+#### 1. Use camelcase
 
 - To use camelCase when naming `objects`, `functions` and `instances`.
 - Eslint rules tags: [`camelcase`](http://eslint.org/docs/rules/camelcase.html)
