@@ -2,6 +2,8 @@
 
 #### 1. prefix `$`
 
+- Prefix jQuery objects variables with `$`
+
 ```js
 
 ```
