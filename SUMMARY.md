@@ -78,4 +78,5 @@
     * One space
     * End files
     * Chain calling
-    * Leave a blank after blocks and before the next statement
+    * Leave a blank line after blocks and before the next statement
+    * Do not pad blocks with blank lines
