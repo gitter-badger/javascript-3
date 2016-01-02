@@ -60,7 +60,7 @@ if (currentUser) {
 
 #### 3. Never name a parameter `arguments`
 
-- Never name a parameter `arguments`, and this will take precedence(優先級) over the `arguments` object that is given to every function scope.
+- Never name a parameter `arguments`, because this will take precedence(優先級) over the `arguments` object that is given to every function scope.
 
 ```js
 /**
