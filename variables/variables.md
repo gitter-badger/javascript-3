@@ -75,9 +75,23 @@ let len;
 
 - Assign variables when necessary, and place them in a reasonable place.
 
-> the reason is that both `let` and `const` are block scoped
+> the reason is that both `let` and `const` are block scoped.
 
 ```js
+/**
+ * bad
+ */
+function (hasName) {
+    const name = getName();
+    
+    if (!hasName) {
+        return false;
+    }
+    
+    this.setFirstName(name);
+    
+    return true;
+}
 ```
 
 
