@@ -8,19 +8,19 @@
 /**
  * bad
  */
-const styleGuide = require('./styleGuide');
-module.exports = styleGuide.es6;
+const StyleGuide = require('./StyleGuide');
+module.exports = StyleGuide.es6;
 
 /**
  * ok
  */
-import styleGuide from './styleGuide';
-export default styleGuide.es6;
+import StyleGuide from './StyleGuide';
+export default StyleGuide.es6;
 
 /**
  * best
  */
-import { es6 } from './styleGuide';
+import { es6 } from './StyleGuide';
 export default es6;
 ```
 
