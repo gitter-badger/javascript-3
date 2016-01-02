@@ -108,7 +108,7 @@ const x = y++;
 
 ```js
 /**
- * bad
+ * good
  */
 (function (global) {
     /**
