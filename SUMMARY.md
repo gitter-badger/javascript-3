@@ -16,3 +16,4 @@
 4. [Arrays](./arrays/arrays.md)
     * Use []
     * Use push()
+    * Use spreads operator ...
