@@ -28,4 +28,5 @@
     * Do not use eval()
 7. [Functions](./functions/functions.md)
     * Use function declarations
+    * Do not declare functions in a non-function block
     
