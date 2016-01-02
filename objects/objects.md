@@ -78,6 +78,9 @@ const obj = {
     id: 5,
     name: 'Foshan'
 };
+obj[geyKey('enabled')] = true;
 ```
+
+- *Notice that: computed properties are only supported by ECMAScript 6 (ES6)* 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
