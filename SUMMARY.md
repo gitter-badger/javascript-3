@@ -18,5 +18,5 @@
     * Use push()
     * Use spread operator ...
     * Use from()
-5. [Destructuring](./destructuring/destructuring.md)
+5. [Destructuring(解構)](./destructuring/destructuring.md)
     * 
