@@ -232,6 +232,8 @@ const x = function () {};   /**
 const y = function a() {};
 ```
 
+#### 7. Never mutate parameters
+
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
