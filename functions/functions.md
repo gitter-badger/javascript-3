@@ -258,4 +258,6 @@ function change(obj) {
 - Do not reassign parameters.
 - Eslint rules tags: [`no-param-reassign`](http://eslint.org/docs/rules/no-param-reassign.html)
 
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
