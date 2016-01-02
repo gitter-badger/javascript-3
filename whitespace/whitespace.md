@@ -119,7 +119,7 @@ const x = y++;
 
 #### 3. Chain Calling
 
-- Use indentation when making long method chains. And to use a leading dot, which emphasizes that the line is a method call, not a new statement.
+- Use indentation(縮進) when making long method chains. And to use a leading dot, which emphasizes that the line is a method call, not a new statement.
 
 ```js
 /**
