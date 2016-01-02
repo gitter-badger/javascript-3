@@ -26,6 +26,6 @@ export default es6;
 
 #### 2. Do not use wildcart imports
 
-> the reason is that this can make sure you have a single default export
+> the reason is that this can make sure you have a single default export.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
