@@ -2,7 +2,7 @@
 
 #### 1. Use braces
 
-- To use braces with all multiple lines.
+- To use braces with all multiple lines, but do not use when it's a single line.
 
 ```js
 /**
@@ -18,6 +18,11 @@ if (test) return false;
 if (test) {
     return false;
 }
+
+/**
+ * bad
+ */
+
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
