@@ -22,7 +22,14 @@ if (test) {
 /**
  * bad
  */
+function () { return false; }
 
+/**
+ * good
+ */
+function () {
+    return false;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
