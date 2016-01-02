@@ -33,6 +33,8 @@ number.foreach(num => sum += num);
 const sum = numbers.reduce((total, num) => total += num, 0);
 ```
 
-#### 2. Do not use generator for now (reserved)
+#### 2. Do not use generators for now (reserved)
+
+> the reason is that generators cannot be transpiled well to ES5.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
