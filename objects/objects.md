@@ -96,7 +96,7 @@ const obj = {
 };
 ```
 
-- *Notice that: computed properties are only supported by ECMAScript 6 (ES6)*
+- *Notice that: computed properties are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Browser_compatibility)*
 
 #### 4. Use shorthand
 
