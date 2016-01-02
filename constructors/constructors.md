@@ -73,6 +73,10 @@ Aleen.prototype.jump = function () {
     return true;
 }
 
+Aleen.prototype.setHeight = function () {
+    this.height = height;
+}
+
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
