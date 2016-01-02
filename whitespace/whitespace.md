@@ -66,6 +66,16 @@ const x=y+5;
  * good
  */
 const x = y + 5;
+
+/**
+ * bad
+ */
+const x = y ++;
+
+/**
+ * good
+ */
+const x = y++;
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
