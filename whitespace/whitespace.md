@@ -173,4 +173,6 @@ if (foo) {
 console.log('test');
 ```
 
+#### 5. Do not pad blocks with blank lines.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
