@@ -53,5 +53,8 @@ const errorMessage = `This is a super long error that was thrown because
 
 #### 3. Use template strings
 
+- When programmatically building up strings, use template strings instead of concatnation.
+
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
