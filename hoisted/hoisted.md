@@ -7,6 +7,14 @@
 
 ```js
 /**
+ * var
+ */
+{
+    console.log(foo);   /** undefined       */
+    var foo = 2;
+}
+
+/**
  * let and const
  */
 {
@@ -19,7 +27,7 @@
      * from the start of the block until the
      * declaration is processed.
      */
-    console.log(foo); // ReferenceError
+    console.log(foo);   /** ReferenceError  */
     let foo = 2;
 }
 ```
