@@ -75,14 +75,15 @@ $('.sidebar > ul').hide();
 	</thead>
     <tbody>
         <tr>
-            <td>find method(node context)</td>
-            <td>statements</td>
+            <td>`find` method(node context)</td>
+            <td>
+                ```js
+                    const has = $(artical).find('ins').length > 0 ? true : false
+                ```
+            </td>
             <td>results</td>
         </tr>
     </tbody>
 </table>
-type|statements|results
-:--:|:--------:|:-----:
-|```const has = $(artical).find('ins').length > 0 ? true : false```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
