@@ -17,5 +17,7 @@ const item = new Object();
 const item = {};
 ```
 
+#### Do not use `reserved words`
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
