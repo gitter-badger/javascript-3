@@ -17,4 +17,7 @@ const items = new Array();
 const items = [];
 ```
 
+#### 2. Use push
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
