@@ -44,9 +44,9 @@
 
 ```js
 function example() {
-    console.log(anonymous);     /** undefined                    */
+    console.log(anonymous);     /** undefined                   */
     
-    anonymous();                /** TypeError, not a function  */
+    anonymous();                /** TypeError, not a function   */
     
     var anonymous = function() {
         console.log('anonymous function expression');
