@@ -103,4 +103,5 @@
     1. [jQuery](./jquery/jquery.md)
         * Prefix $
         * Cache jQuery object
+        * Use Cascading or parent > child
         * Performance of different selectors
