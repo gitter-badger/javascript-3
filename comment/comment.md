@@ -44,6 +44,9 @@ if (test) {
 
 /** [for: description] */
 for (len i = 0; i < 10; i++) {
+    /**
+     * ...
+     */
 }
 ```
 
