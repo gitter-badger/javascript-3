@@ -20,7 +20,7 @@ const foo() {
 }
 ```
 
-- you can use function expressions as follow:
+- Use arrow functions in place of function expressions as follow:
 
 ```js
 /**
