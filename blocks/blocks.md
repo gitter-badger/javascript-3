@@ -2,7 +2,7 @@
 
 #### 1. Use braces
 
--  Conditional statements such as the `if` statement evaluate their expression using coericion(強迫) with the `ToBoolean` abstract method and always follow these simple rules:
+- Conditional statements such as the `if` statement evaluate their expression using coericion(強迫) with the `ToBoolean` abstract method and always follow these simple rules:
 - Eslint rules tags: [`eqeqeq`](http://eslint.org/docs/rules/eqeqeq.html)
     - **Objects** evaluate to **true**.
     - **Undefined** evaluate to  **false**.
