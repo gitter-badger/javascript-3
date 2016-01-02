@@ -35,7 +35,7 @@
      * declaration is processed.
      */
     console.log(foo);   /** ReferenceError  */
-    let foo = 2;
+    const foo = 2;
 }
 ```
 
