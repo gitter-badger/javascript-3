@@ -60,4 +60,6 @@ if (currentUser) {
 
 #### 3. Never name a parameter `arguments`
 
+- Never name a parameter `arguments`, which will take precedence(優先級)
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
