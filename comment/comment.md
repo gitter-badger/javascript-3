@@ -11,7 +11,7 @@
 
 #### 1. Function comments
 
-- use `@param` to give comments for all the parameters of this function
+- use `@param` to give comments for all the parameters of this function.
 - use `@return` to give comments for what will be return of this function.
 
 ```js
