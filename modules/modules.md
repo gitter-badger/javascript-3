@@ -24,4 +24,6 @@ import { es6 } from './styleGuide';
 export default es6;
 ```
 
+#### 2. Do not use wildcart imports.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
