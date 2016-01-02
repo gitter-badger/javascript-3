@@ -17,6 +17,12 @@ let sum = 0;
 for (let num of numbers) {
     sum += num;
 }
+
+/**
+ * good
+ */
+let sum = 0;
+number.foreach(num => sum += num);
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
