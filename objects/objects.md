@@ -148,6 +148,6 @@ const obj = {
 
 #### Group shorthand
 
-- To group your shorthand properties at the beginning of the object declaration
+- To group your shorthand properties at the beginning of the object declaration.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
