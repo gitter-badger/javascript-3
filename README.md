@@ -18,7 +18,7 @@
 10. [**Modules**](./modules/modules.md)
 11. [**Iterators and Generators**](./iteratorGenerator/iteratorGenerator.md)
 12. [**Properties**](./properties/properties.md)
-13. [**Variables**](./variables/variables.md
+13. [**Variables**](./variables/variables.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
