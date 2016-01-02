@@ -25,7 +25,7 @@ let sum = 0;
 number.foreach(num => sum += num);
 
 /**
- * best
+ * best (use the funtional force
  */
 ```
 
