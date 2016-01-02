@@ -59,4 +59,13 @@ const itemsCopy = [...items];
 
 - *Notice that: computed properties are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator#Browser_compatibility)*
 
+#### 4. Use `from()`
+
+- To convert an array-like object to an array, use Array#from.
+
+```js
+const foo = document.querySelectorAll('.foo');
+const arr = Array.from(foo);
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
