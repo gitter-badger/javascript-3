@@ -45,6 +45,9 @@ const inherits = require('inherits');
 function PeekableQueue(contents) {
     Queue.apply(this, contents);
 }
+inherits(PeekableQueue, Queue);
+PeekableQueue.prototype.peek = function () {
+}
 
 ```
 
