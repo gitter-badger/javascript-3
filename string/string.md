@@ -71,6 +71,13 @@ function sayHi(name) {
 function sayHi(name) {
     return ['How are you, ', name, '?'].join();
 }
+
+/**
+ * good
+ */
+function sayHi(name) {
+    return `How are you, ${name}?`;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
