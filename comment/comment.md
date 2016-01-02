@@ -18,7 +18,7 @@
  * @return {[type]}      [description]
  */
 function initData(data) {
-
+    /** ... */
 }
 ```
 
