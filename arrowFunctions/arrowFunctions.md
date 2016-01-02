@@ -81,9 +81,12 @@
 
 - If your function only takes a single argument, feel free to omit the parentheses.
 - Eslint rules tags: [`arrow-parens`](http://eslint.org/docs/rules/arrow-parens.html)
-- 
-```js
 
+```js
+/**
+ * good
+ */
+[1, 2, 3].map(x => x * x);
 ```
 
 
