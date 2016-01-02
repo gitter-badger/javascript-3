@@ -40,3 +40,4 @@
 9. [Constructors](./constructors/constructors.md)
     * Use class
     * Use extends for inheritance
+    * toString()
