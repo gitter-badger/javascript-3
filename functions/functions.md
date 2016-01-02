@@ -258,6 +258,9 @@ function change(obj) {
 - Do not reassign parameters.
 - Eslint rules tags: [`no-param-reassign`](http://eslint.org/docs/rules/no-param-reassign.html)
 
+> the reason is that reassigning parameters can lead to unexpected behavior, especially when accessing the arguments object. It can also cause optimization issues, especially in V8.
 
+```js
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
