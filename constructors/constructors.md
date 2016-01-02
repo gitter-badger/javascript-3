@@ -35,4 +35,6 @@ class Queue {
 
 #### 2. Use `extends` for inheritance
 
+> the reason is that it's a built-in way to inherit prototype functionality
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
