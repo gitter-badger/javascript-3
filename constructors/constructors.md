@@ -50,6 +50,14 @@ PeekableQueue.prototype.peek = function () {
     retrn this._queue[0];
 }
 
+/**
+ * good
+ */
+class PeekableQueue extends Queue {
+    peek() {
+        return this._queue[0];
+    }
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
