@@ -57,7 +57,7 @@ for (i = 0; i < len; i++) {
 const itemsCopy = [...items];
 ```
 
-- *Notice that: computed properties are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator#Browser_compatibility)*
+- *Notice that: spread operator is only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator#Browser_compatibility)*
 
 #### 4. Use `from()`
 
