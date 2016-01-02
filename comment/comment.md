@@ -12,7 +12,14 @@
 #### 1. Function comments
 
 ```js
+/**
+ * [initData: description]
+ * @param  {[type]} data [description]
+ * @return {[type]}      [description]
+ */
+function initData(data) {
 
+}
 ```
 
 #### 2. Branched structural comments
