@@ -22,7 +22,7 @@ class User {
 }
 
 const good = new User({
-    name: 'yup',
+    name: 'Aleen',
 });
 ```
 
