@@ -3,6 +3,6 @@
 #### 1. Use dot notation
 
 - To use dot notation when accessing properties.
-- Eslint rules tags:
+- Eslint rules tags: [`dot-notation`](http://eslint.org/docs/rules/dot-notation.html)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
