@@ -16,7 +16,7 @@
 8. [**Arrow Functions**](./arrowFunctions/arrowFunctions.md)
 9. [**Constructors**](./constructors/constructors.md)
 10. [**Modules**](./modules/modules.md)
-11. [**Iterators and Generators**](./iteratorGenerator/iteractorGenerator.md)
+11. [**Iterators and Generators**](./iteratorGenerator/iteratorGenerator.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
