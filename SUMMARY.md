@@ -30,4 +30,5 @@
     * Use function declarations
     * Do not declare functions in a non-function block
     * Never name a parameter arguments
+    * Use default parameter syntax
     
