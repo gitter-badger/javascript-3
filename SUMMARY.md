@@ -87,3 +87,4 @@
     * Strings
     * Numbers
     * Booleans
+21. [Naming](./naming/naming.md)
