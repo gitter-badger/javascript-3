@@ -147,7 +147,7 @@ function handleThings(opts = {}) {
 }
 ```
 
-- *Notice that: avoid side effects with default parameters.*
+- Avoid side effects with default parameters.
 
 ```js
 var b = 1;
