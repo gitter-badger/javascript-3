@@ -75,5 +75,10 @@ let len;
 
 - Assign variables when necessary, and place them in a reasonable place.
 
+> the reason is that both `let` and `const` are block scoped
+
+```js
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
