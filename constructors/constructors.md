@@ -42,7 +42,9 @@ class Queue {
  * bad
  */
 const inherits = require('inherits');
-
+function PeekableQueue(contents) {
+    Queue.apply(this, contents);
+}
 
 ```
 
