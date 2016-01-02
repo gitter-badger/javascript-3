@@ -59,6 +59,10 @@
 
 - If the expression spans over multiple lines, wrap it in parentheses(圓括號) for better readability.
 
+```js
+
+```
+
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
