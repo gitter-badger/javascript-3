@@ -23,6 +23,10 @@ for (let num of numbers) {
  */
 let sum = 0;
 number.foreach(num => sum += num);
+
+/**
+ * best
+ */
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
