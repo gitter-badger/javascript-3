@@ -11,6 +11,11 @@
 function Queue(contents = []) {
     this._queue = [...contents];
 }
+Queue.prototype.pop = function () {
+    const value = this._queue[0]
+    this._que.splice(0, 1);
+    return value;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
