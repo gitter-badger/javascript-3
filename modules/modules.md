@@ -33,6 +33,8 @@ export default es6;
  * bad
  */
 import * as StyleGuide from './StyleGuide'
+
+
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
