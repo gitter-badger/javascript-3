@@ -116,7 +116,7 @@ class Aleen {
     }
     
     toString() {
-        return `Aleen - ${this.getName()}`
+        return `Aleen - ${this.getName()}`;
     }
 }
 ```
