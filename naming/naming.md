@@ -47,7 +47,7 @@ function foo() {
     const self = this;
     return function() {
         console.log(self);
-    }
+    };
 }
 ```
 
