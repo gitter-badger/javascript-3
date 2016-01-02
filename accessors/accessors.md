@@ -41,7 +41,12 @@ if (!dragon.hasAge()) {
 - It's ok to create `get()` and `set()`, but be consistent.
 
 ```js
-
+class Aleen {
+    constructor(options = {}) {
+        const lightsaber = options.lightsaber || 'blue';
+        this.set('lightsaber', lightsaber);
+    }
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
