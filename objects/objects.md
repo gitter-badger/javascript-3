@@ -1,6 +1,6 @@
 ## Objects [**Back**](./../README.md)
 
-#### Use `{}`
+#### 1. Use `{}`
 
 - To use the literal syntax for object creation.
 - Eslint rules tags: [`no-new-object`](http://eslint.org/docs/rules/no-new-object.html)
@@ -17,7 +17,7 @@ const item = new Object();
 const item = {};
 ```
 
-#### Do not use `reserved words`
+#### 2. Do not use `reserved words`
 - If your code will be executed in browsers in script context, remember that it's not recommended to use reserved words as keys.
 
 > the reason is that they won't work in IE8, but it's OK to use them in ES6 modules and server-side code.
@@ -65,7 +65,7 @@ const heros = {
 };
 ```
 
-#### Use computed property names
+#### 3. Use computed property names
 
 - To use computed property names when creating objects with dynamic property names.
 
@@ -98,7 +98,7 @@ const obj = {
 
 - *Notice that: computed properties are only supported by ECMAScript 6 (ES6)*
 
-#### Use shorthand
+#### 4. Use shorthand
 
 - To use object method shorthand.
 - Eslint rules tags: [`object-shorthand`](http://eslint.org/docs/rules/object-shorthand.html)
@@ -146,7 +146,7 @@ const obj = {
 };
 ```
 
-#### Group shorthand
+#### 5. Group shorthand
 
 - To group your shorthand properties at the beginning of the object declaration.
 
