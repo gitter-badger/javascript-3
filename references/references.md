@@ -20,7 +20,7 @@ const a = 1;
 const b = 2;
 ```
 
-#### Use `let`
+#### 2. Use `let`
 - If you must reassign references, you can use `let` instead of `var`.
 - Eslint rules tags: [`no-var`](http://eslint.org/docs/rules/no-var.html)
 
