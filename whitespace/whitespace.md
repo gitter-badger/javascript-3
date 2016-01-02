@@ -26,5 +26,6 @@ function test() {
 ```
 
 - Place 1 space before the opening parenthesis in control statements (`if`, `while` etc.). Place no space before the argument list in function calls and declarations.
+- Eslint rules tags: [`space-after-keywords`](), 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
