@@ -42,6 +42,8 @@ function getFullName({firstName, lastName}) {
 }
 ```
 
+- To use object destructuring for multiple return values, not array destructuring.
+
 #### 2. Use array destructuring
 
 - To use array destructuring like object destructuring.
