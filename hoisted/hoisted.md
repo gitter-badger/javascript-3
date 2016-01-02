@@ -40,4 +40,6 @@
 }
 ```
 
+- Anonymous function expressions hoist their variable name, but not the function assignment.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
