@@ -49,3 +49,4 @@
 11. [Iterators and Generators](./iteratorGenerator/iteratorGenerator.md)
     * Do not use iterators
     * Do not use generators for now (reserved)
+12. [Proertis](./iteratorGenerator/iteratorGenerator.md)
