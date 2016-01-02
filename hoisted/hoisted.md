@@ -62,8 +62,10 @@ function example() {
     
     named();                /** TypeError, not a function   */
     
+    f();                    /** ReferenceError, f not defined     */
+    
     var named = function f() {
-        console.log('anonymous function expression');
+        console.log('f');
     };
 }
 ```
