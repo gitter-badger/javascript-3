@@ -190,4 +190,8 @@ function handleThings(name, opts = {}) {
 }
 ```
 
+#### 5. Never use the Function constructor
+
+- Never use the Function constructor to create a new function.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
