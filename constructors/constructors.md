@@ -81,6 +81,15 @@ const puiMan = new Aleen();
 puiMan.jump();          /** => true         */
 puiMan.setHeight(20);   /** => undefined    */
 
+/**
+ * good
+ */
+class Aleen {
+    jump() {
+        this.jumping = true;
+        return this;
+    }
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
