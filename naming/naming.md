@@ -15,13 +15,13 @@ function helloAleen() {}
 - To use PascalCase when naming `constructors` or `classes`.
 
 ```js
-class User {
+class PuiManCheui {
     constructor(options) {
         this.name = options.name;
     }
 }
 
-const good = new User({
+const good = new PuiManCheui({
     name: 'Aleen',
 });
 ```
