@@ -49,6 +49,15 @@ function foo() {
         console.log(self);
     };
 }
+
+/**
+ * good
+ */
+function foo() {
+    return () => {
+        console.log(this);
+    };
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
