@@ -40,4 +40,13 @@ count = count? count + 1 : count;
 
 - *Notice that: both `const` and `let` are block-scoped(塊作用域).*
 
+```js
+{
+    let a = 1;
+    const b = 1;
+}
+console.log(a); /** ReferenceError  */
+console.log(b); /** ReferenceError  */
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
