@@ -62,6 +62,7 @@ const heros = { type: 'alien' };
 #### Use computed property names
 
 - To use computed property names when creating objects with dynamic property names.
-- 
+
+> the reason is that they allow you to define all the properties of an object in one place.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
