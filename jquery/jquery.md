@@ -66,14 +66,17 @@ $('.sidebar > ul').hide();
 - The performance testing [jsPerf](http://jsperf.com/jquery-find-vs-context-sel/16) between `.find()`, `context selector` and `non-context selector`. 
 
 <table>
-    <thead>Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit
-Test</thead>
+    <thead>
+        <tr>Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit
+Test</tr>
+    </thead>
     <tbody>
         <tr>
             <td>type</td>
             <td>statements</td>
             <td>result</td>
         </tr>
+        
     </tbody>
 </table>
 
