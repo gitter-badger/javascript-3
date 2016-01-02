@@ -37,4 +37,6 @@ this._firstName = 'PuiMan';
 
 #### 4. Do not save references to `this`
 
+- Do not save references to `this`, and use arrow functions or Function#bind instead.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
