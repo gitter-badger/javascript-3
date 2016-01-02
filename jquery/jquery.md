@@ -69,11 +69,11 @@ $('.sidebar > ul').hide();
 
 Type|Statements|Results(*Opts/sec*
 :---:|:---:|:---:
-`find` method (**node** context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
+`find` method (node context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
 context node|```const has = $('ins', article).length > 0 ? true : false;```|169,866 ± 10.33% (17% slower)
 context jQuery[0]|```const has = $('ins', $article[0]).length > 0 ? true : false;```|154,641 ± 6.12% (24% slower)
 cascade|```const has = $('article ins').length > 0 ? true : false;```|18,615 ± 1.80% (91% slower)
-`find` method (**jQuery** context)|```const has = $($article).find('ins').length > 0 ? true : false;```
+`find` method (jQuery context)|```const has = $($article).find('ins').length > 0 ? true : false;```
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
