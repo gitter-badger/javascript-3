@@ -74,7 +74,16 @@ for (len i = 0; i < 10; i++) {
 - `FIXME`: it's used to annotate(注釋) problems.
 - `TODO`: it's used to annotate solutions to problems.
 
-
+```js
+class Aleen extends Hero {
+    constructor() {
+        super();
+        
+        // FIXME: shouldn't use a global here
+        total = 0;
+    }
+}
+```
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
