@@ -98,6 +98,6 @@ function example() {
 
 #### 4. more details
 
-- JavaScript Scoping & Hoisting by Ben Cherry.
+- [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting/) by [Ben Cherry](http://www.adequatelygood.com/).
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
