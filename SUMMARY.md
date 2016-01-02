@@ -61,6 +61,7 @@
     * Instruction
     * Function expressions
     * Function declarations
+    * More details
 15. [Comparison Operators & Equality](./comparison/comparison.md)
     * Conditional statements
     * Use shortcuts
