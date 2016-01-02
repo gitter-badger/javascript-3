@@ -77,3 +77,4 @@
 18. [Whitespace](./whitespace/whitespace.md)
     * One space
     * End files
+    * Chain calling
