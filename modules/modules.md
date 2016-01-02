@@ -44,4 +44,9 @@ import StyleGuide from './StyleGuide'
 
 - it's not recommended to export directly from an import.
 
+> the reason is that having one clear way to import and one clear way to export makes things consistent
+
+```js
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
