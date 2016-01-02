@@ -82,5 +82,7 @@ context jQuery|```const has = $('ins', $article).length > 0 ? true : false;```| 
 context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|9,156 ± 4.45% (96% slower)
 select and find|```const has = $('article').find('ins').length > 0 ? true : false;```|7,046 ± 8.12% (97% **slowest**)
 
+- **Testing in Firefox 42.0 32-bit on Windows NT 10.0 64-bit**
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
