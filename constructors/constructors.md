@@ -33,6 +33,8 @@ class Queue {
 }
 ```
 
+- name your class with the uppercase character.
+
 #### 2. Use `extends` for inheritance
 
 > the reason is that it's a built-in way to inherit prototype functionality without breaking `instancof`
