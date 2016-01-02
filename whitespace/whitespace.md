@@ -175,4 +175,28 @@ console.log('test');
 
 #### 5. Do not pad blocks with blank lines
 
+```js
+/**
+ * bad
+ */
+if (foo) {
+    
+    console.log('test');
+}
+
+/**
+ * bad
+ */
+if (foo) {
+    console.log('test');
+
+}
+
+/**
+ * good
+ */
+if (foo) {
+    console.log('test');
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
