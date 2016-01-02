@@ -58,11 +58,11 @@ function example() {
 
 ```js
 function example() {
-    console.log(named);     /** undefined                   */
+    console.log(named);     /** undefined                       */
     
-    named();                /** TypeError, not a function   */
+    named();                /** TypeError, not a function       */
     
-    f();                    /** ReferenceError, f not defined     */
+    f();                    /** ReferenceError, f not defined   */
     
     var named = function f() {
         console.log('f');
