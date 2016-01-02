@@ -28,4 +28,6 @@ const good = new PuiManCheui({
 
 #### 3. Use a leading underscore `_`
 
+- To use a leading underscore `_` when naming private properties.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
