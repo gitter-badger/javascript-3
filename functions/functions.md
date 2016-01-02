@@ -163,7 +163,6 @@ count();    /** => 1    **/
 count();    /** => 2    **/
 count(3);   /** => 3    **/
 count();    /** => 3    **/
-
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
