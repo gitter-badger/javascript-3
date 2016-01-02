@@ -117,5 +117,9 @@ const x = y++;
 })(this);↵
 ```
 
+#### 3. Chain Calling
+
+- Use indentation when making long method chains.
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
