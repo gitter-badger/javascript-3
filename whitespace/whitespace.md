@@ -121,5 +121,11 @@ const x = y++;
 
 - Use indentation when making long method chains. And to use a leading dot, which emphasizes that the line is a method call, not a new statement.
 
+```js
+/**
+ * bad
+ */
+$('#items').find('.selected').highlight().end().find('.open').updateCount();
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
