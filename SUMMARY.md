@@ -59,3 +59,5 @@
     * Place yur variables in a reasonable place
 14. [Hoisted(變量聲明提升)](./hoisted/hoisted.md)
     * Instruction
+    * Function expressions
+    * Function declarations
