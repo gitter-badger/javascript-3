@@ -17,3 +17,4 @@
     * Use []
     * Use push()
     * Use spread operator ...
+    * Use from()
