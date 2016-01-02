@@ -124,6 +124,20 @@ const atom = {
 
 ```js
 const aleenCheui = 'Aleen Cheui';
+
+/**
+ * bad
+ */
+const obj = {
+    aleenCheui: aleenCheui
+};
+
+/**
+ * good
+ */
+const obj = {
+    aleenCheui
+};
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
