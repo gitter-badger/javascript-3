@@ -37,4 +37,3 @@
 8. [Arrow Functions](./arrowFunctions/arrowFunctions.md)
     * Use arrow functions notation
     * Omit the braces(忽略大括號) and use the implict(隱式) return
-    
