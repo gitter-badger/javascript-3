@@ -26,8 +26,9 @@ number.foreach(num => sum += num);
 
 /**
  * best (use the funtional force)
+ * arr.reduce(callback,[initialValue])
  */
-
+const sum = numbers.reduce((total, num) => total += num)
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
