@@ -22,4 +22,27 @@ const hero = new Hero();
 
 > the reason is that it's easier to add new variable declaration, and you don't have to worry about swapping out a `;` or `,`.
 
+```js
+/**
+ * bad
+ */
+const items = getItems(),
+    goSportsTeam = true,
+    dragonball = 'z';
+
+/**
+ * bad
+ */
+ const items = getItems(),
+    goSportsTeam = true;
+    dragonball = 'z';
+    
+/**
+ * good
+ */
+const items = getItems();
+const goSportsTeam = true;
+const dragonball = 'z';
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
