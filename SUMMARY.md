@@ -53,3 +53,4 @@
     * Use dot notation
     * Use subscript notation []
 13. [Variables](./variables/variables.md)
+    * Always use const
