@@ -47,6 +47,7 @@ function PeekableQueue(contents) {
 }
 inherits(PeekableQueue, Queue);
 PeekableQueue.prototype.peek = function () {
+    
 }
 
 ```
