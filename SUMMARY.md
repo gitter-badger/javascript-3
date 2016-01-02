@@ -54,3 +54,4 @@
     * Use subscript notation []
 13. [Variables](./variables/variables.md)
     * Always use const
+    * Use one `const` declaration per variable
