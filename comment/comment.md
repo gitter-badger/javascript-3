@@ -51,6 +51,10 @@ switch (test) {
         break;
 }
 
+/** 
+ * [while: description]
+ * @param {[type]} test [description]
+ */
 while (test) {
     /**
      * ..
