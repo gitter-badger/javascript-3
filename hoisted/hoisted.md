@@ -18,6 +18,7 @@
      * The variable is in a "temporal dead zone"
      * from the start of the block until the
      * declaration is processed.
+     */
     console.log(foo); // ReferenceError
     let foo = 2;
 }
