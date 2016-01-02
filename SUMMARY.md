@@ -75,4 +75,4 @@
     * Helping comments
     * Header comments of files
 18. [Whitespace](./whitespace/whitespace.md)
-    *One space
+    * One space
