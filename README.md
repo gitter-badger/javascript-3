@@ -25,7 +25,7 @@
 17. [**Comments**](./comment/comment.md)
 18. [**Whitespace**](./whitespace/whitespace.md)
 19. [**Commas & Semicolons**](./commasSemicolons/commasSemicolons.md)
-20. [**Type Casting(類型轉換) & Coercion(強制多態)**](./typeCastingCoerion/typeCastingCoerion.md)
+20. [**Type Casting**(類型轉換)** & Coercion**(強制多態)](./typeCastingCoerion/typeCastingCoerion.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
