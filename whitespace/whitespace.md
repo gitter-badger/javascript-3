@@ -55,6 +55,7 @@ console.log('Good.');
 ```
 
 - Set off binary operators with one space, but not unary ones.
+- Eslint rules tags: [`space-infix-ops`](http://eslint.org/docs/rules/space-infix-ops.html)
 
 ```js
 /**
