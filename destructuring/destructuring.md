@@ -18,6 +18,15 @@ function getFullName(user) {
     
     return firstName + ' ' + lastName;
 }
+
+/**
+ * good
+ */
+function getFullName(user) {
+    const {firstName, lastName} = user;
+    
+    return firstName + ' ' + lastName;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
