@@ -32,6 +32,7 @@ const good = new PuiManCheui({
 - Eslint rules tags: [`no-underscore-dangle`](http://eslint.org/docs/rules/no-underscore-dangle.html)
 
 ```js
+this._firstName = 'PuiMan';
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
