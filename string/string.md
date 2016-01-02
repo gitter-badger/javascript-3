@@ -51,4 +51,7 @@ const errorMessage = `This is a super long error that was thrown because `
   `with this, you would get nowhere fast.`;
 ```
 
+#### 3. Use template strings
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
