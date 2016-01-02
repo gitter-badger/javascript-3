@@ -22,7 +22,7 @@
 14. [**Hoisted**(變量聲明提升)](./hoisted/hoisted.md)
 15. [**Comparison Operators & Equality**](./comparison/comparison.md)
 16. [**Blocks**](./blocks/blocks.md)
-17. [Comment](./comment/comment.md)
+17. [**Comment**](./comment/comment.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
