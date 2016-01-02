@@ -105,4 +105,12 @@ puiMan.jump()
 
 - it's ok to write a custom `toString()` method, and you should make sure it works without any side effects.
 
+```js
+class Aleen {
+    constructor(options = {}) {
+        this.name = options.name || 'no name';
+    }
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
