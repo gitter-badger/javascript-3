@@ -35,7 +35,7 @@ arr[arr.length] = 'aleen';
 arr.push('aleen');
 ```
 
-#### 3. Use spreads `...`
+#### 3. Use spreads operator `...`
 
 - To use array spreads to copy arrays.
 
