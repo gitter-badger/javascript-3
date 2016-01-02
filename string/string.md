@@ -64,6 +64,13 @@ const errorMessage = `This is a super long error that was thrown because
 function sayHi(name) {
     return 'How are you, ' + name + '?';
 }
+
+/**
+ * bad
+ */
+function sayHi(name) {
+    return ['How are you, ', name, '?'].join();
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
