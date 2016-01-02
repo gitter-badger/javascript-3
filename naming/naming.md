@@ -29,5 +29,9 @@ const good = new PuiManCheui({
 #### 3. Use a leading underscore `_`
 
 - To use a leading underscore `_` when naming private properties.
+- Eslint rules tags: [`no-underscore-dangle`](http://eslint.org/docs/rules/no-underscore-dangle.html)
+
+```js
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
