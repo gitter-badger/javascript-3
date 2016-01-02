@@ -24,4 +24,5 @@
 6. [String](./string/string.md)
     * Use single quotes for string
     * Multiple lines when too many characters
+    * Use template strings
     
