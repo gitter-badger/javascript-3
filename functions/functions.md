@@ -267,6 +267,12 @@ function change(obj) {
 function change(a) {
     a = 1;
 }
+
+function change(a) {
+    if (!a) {
+        a = 1;
+    }
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
