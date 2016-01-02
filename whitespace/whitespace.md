@@ -234,6 +234,16 @@ const items = [ 1, 2, 3 ];
  * good
  */
 const items = [1, 2, 3];
+
+/**
+ * bad
+ */
+const obj = {name: 'Aleen'};
+
+/**
+ * good
+ */
+const obj = { name: 'Aleen' };
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
