@@ -202,7 +202,7 @@ if (foo) {
 }
 ```
 
-#### 6. Do not add space inside brackets(方括號) and parentheses(圓括號), but add space inside braces(花括號)
+#### 6. Do not add space inside brackets(方括號) and parentheses(圓括號), but add space inside braces(花括號).
 
 - Eslint rules tags: [`space-in-parens`](http://eslint.org/docs/rules/space-in-parens.html), [`array-bracket-spacing`](http://eslint.org/docs/rules/array-bracket-spacing.html)
 
