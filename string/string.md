@@ -1,6 +1,6 @@
 ## String [**Back**](./../README.md)
 
-#### 1. Use ' for string
+#### 1. Use single qutoes for string
 
 - To use single quotes `''` for strings.
 - Eslint rules tags: [`quotes`](http://eslint.org/docs/rules/quotes.html)
