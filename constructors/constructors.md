@@ -21,7 +21,9 @@ Queue.prototype.pop = function () {
  * good
  */
 class Queue {
-    
+    constructor(contents = []) {
+        this._queue = [...contents];
+    }
 }
 ```
 
