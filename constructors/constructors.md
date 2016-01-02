@@ -77,7 +77,9 @@ Aleen.prototype.setHeight = function (height) {
     this.height = height;
 }
 
-
+const puiMan = new Aleen();
+puiMan.jump();          /** => true         */
+puiMan.setHeight(20);   /** => undefined    */
 
 ```
 
