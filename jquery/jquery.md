@@ -70,7 +70,7 @@ $('.sidebar > ul').hide();
 Type|Statements|Results(*Opts/sec*
 :---:|:---:|:---:
 `find` method (**node** context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
-
+`find` method (**jQuery** context)|```const has = $($article).find('ins').length > 0 ? true : false;```
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
