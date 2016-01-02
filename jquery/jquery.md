@@ -94,7 +94,7 @@ cascade|```const has = $('article ins').length > 0 ? true : false;```|17,027 ± 
 context jQuery|```const has = $('ins', $article).length > 0 ? true : false;```| 5,433 ± 5.18% (96% slower)
 `find` method (jQuery context)|```const has = $($article).find('ins').length > 0 ? true : false;```|9,599 ± 1.84% (95% slower)
 select and find|```const has = $('article').find('ins').length > 0 ? true : false;```|5,268 ± 5.23% (96% slower)
-context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|9,156 ± 4.45% (96% slower)
+context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|4,727 ± 7.55% (96% **slowest**)
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
