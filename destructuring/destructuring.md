@@ -31,14 +31,14 @@ function getFullName(user) {
      */
     const {firstName, lastName} = user;
     
-    return firstName + ' ' + lastName;
+    return `${firstName} ${lastName}`;
 }
 
 /**
  * best
  */
 function getFullName({firstName, lastName}) {
-    return firstName + ' ' + lastName;
+    return `${firstName} ${lastName}`;
 }
 ```
 
