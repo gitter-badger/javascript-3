@@ -57,4 +57,13 @@ const errorMessage = `This is a super long error that was thrown because
 
 > the reason is that template strings give you a readable, concise(簡練的) syntax with proper newlines and string interpolation(內插) features.
 
+```js
+/**
+ * bad
+ */
+function sayHi(name) {
+    return 'How are you, ' + name + '?';
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
