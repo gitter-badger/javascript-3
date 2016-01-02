@@ -13,7 +13,7 @@ hero = new Hero();
 /**
  * good
  */
-
+const hero = new Hero();
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
