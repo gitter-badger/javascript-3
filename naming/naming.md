@@ -58,6 +58,14 @@ function foo() {
         console.log(this);
     };
 }
+
+function foo() {
+    function returnFunc() {
+        console.log(this);
+    }
+    
+    return returnFunc.bind(this);
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
