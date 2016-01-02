@@ -3,7 +3,6 @@
 - Add one space after each commas.
 - Eslint rules tags: [`comma-dangle`](http://eslint.org/docs/rules/comma-dangle.html)
 
-
 ```js
 
 ```
