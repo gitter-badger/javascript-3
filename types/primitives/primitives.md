@@ -11,6 +11,9 @@
 const foo = 1;
 let bar = foo;  /** number type */
 
+bar = 9;
+
+console.log(foo, bar);  /** => 1, 9 */
 
 ```
 
