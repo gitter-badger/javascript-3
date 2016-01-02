@@ -86,7 +86,7 @@ select and find|```const has = $('article').find('ins').length > 0 ? true : fals
 
 Type|Statements|Results(*Opts/sec*
 :---:|:---:|:---:
-`find` method (node context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
+`find` method (node context)|```const has = $(artical).find('ins').length > 0 ? true : false```|132,743 ± 8.18% (**fastest**)
 context jQuery[0]|```const has = $('ins', $article[0]).length > 0 ? true : false;```|154,641 ± 6.12% (24% slower)
 context node|```const has = $('ins', article).length > 0 ? true : false;```|169,866 ± 10.33% (17% slower)
 cascade|```const has = $('article ins').length > 0 ? true : false;```|18,615 ± 1.80% (91% slower)
