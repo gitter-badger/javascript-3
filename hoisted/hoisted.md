@@ -54,4 +54,6 @@ function example() {
 }
 ```
 
+- Named function expressions hoist the variable name, not the function name or the function body.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
