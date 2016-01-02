@@ -44,3 +44,4 @@
     * toString()
 10. [Modules](./modules/modules.md)
     * Use modules
+    * Do not use wildcart imports
