@@ -92,3 +92,4 @@
     * Use pascalcase
     * Use a leading underscore _
     * Do not save references to this
+    * Name the file with the class name
