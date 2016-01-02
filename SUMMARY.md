@@ -56,3 +56,4 @@
     * Always use const
     * Use one const declaration per variable
     * Group all the const and let
+    * Place yur variables in a reasonable place
