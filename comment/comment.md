@@ -51,6 +51,12 @@ switch (test) {
         break;
 }
 
+while (test) {
+    /**
+     * ..
+     */
+}
+
 /** [for: description] */
 for (len i = 0; i < 10; i++) {
     /**
