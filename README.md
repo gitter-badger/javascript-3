@@ -5,7 +5,8 @@
 - Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
 
 # Categories
-- [**types**](./types/types.md)
+1. [**Types**](./types/types.md)
+2. [**References**](./references/references.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
