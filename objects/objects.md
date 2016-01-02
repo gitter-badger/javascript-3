@@ -46,17 +46,23 @@ const heros = {
 /**
  * bad
  */
-const heros = { class: 'alien' };
+const heros = {
+    class: 'alien'
+};
 
 /**
  * bad
  */
-const heros = { klass: 'alien' };
+const heros = {
+    klass: 'alien'
+};
 
 /**
  * good
  */
-const heros = { type: 'alien' };
+const heros = {
+    type: 'alien'
+};
 ```
 
 #### Use computed property names
