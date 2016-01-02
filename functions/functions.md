@@ -179,6 +179,15 @@ function handleThings(opts = {}, name) {
      * ...
      */
 }
+
+/**
+ * good
+ */
+function handleThings(name, opts = {}) {
+    /**
+     * ...
+     */
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
