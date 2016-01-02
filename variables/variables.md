@@ -71,4 +71,6 @@ let dragonball;
 let len;
 ```
 
+#### 4. Place yur variables in a reasonable place
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
