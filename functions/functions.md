@@ -124,6 +124,16 @@ function handleThings(opts) {
      */
 }
 
+/**
+ * bad
+ */
+function handleThings(opts) {
+    if (opts === void 0) {
+        opts = {};
+    }
+    // ...
+}
+
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
