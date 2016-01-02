@@ -6,6 +6,9 @@
 
 #### 1. One space
 
+- Place 1 space before the leading brace.
+- 
+
 ```js
 
 ```
