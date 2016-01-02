@@ -5,7 +5,15 @@
 - Eslint rules tags: [`comma-dangle`](http://eslint.org/docs/rules/comma-dangle.html)
 
 ```js
+/**
+ * bad
+ */
+const items = [1,2,3];
 
+/**
+ * good
+ */
+const items = [1, 2, 3];
 ```
 
 - Eslint rules tags: [`semi`](http://eslint.org/docs/rules/semi.html)
