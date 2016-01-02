@@ -53,7 +53,7 @@ const errorMessage = `This is a super long error that was thrown because
 
 #### 3. Use template strings
 
-- When programmatically building up strings, use template strings instead of concatnation.
+- When programmatically building up strings, use template strings instead of concatenation.
 
 
 
