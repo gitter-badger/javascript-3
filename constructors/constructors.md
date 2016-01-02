@@ -65,6 +65,10 @@ class PeekableQueue extends Queue {
 - Methods can return `this` to help with method chaining.
 
 ```js
+/**
+ * bad
+ */
+Aleen.prototype
 
 ```
 
