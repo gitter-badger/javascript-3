@@ -72,3 +72,4 @@
 17. [Comments](./comment/comment.md)
     * Function comments
     * Structural comments
+    * Helping comments
