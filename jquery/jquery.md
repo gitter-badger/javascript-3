@@ -22,7 +22,13 @@ const $sidebar = $('.sidebar');
 /**
  * bad
  */
-
+function setSidebar() {
+    $('.sidebar').hide();
+    
+    $('.sidebar').css({
+        'background-color': 'blue'
+    });
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
