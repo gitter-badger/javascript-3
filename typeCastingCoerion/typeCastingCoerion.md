@@ -18,6 +18,8 @@ const totalScore = String(reviewScore);
 
 #### 2. Numbers
 
+- To use `Number` for type casting and `parseInt` always with a radix for parsing strings.
+
 ```js
 const inputValue = '4';
 
