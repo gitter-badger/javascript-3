@@ -7,4 +7,12 @@
 
 > the reason is that this enforces(強制執行) our immutable(永恆不變的) rules. Dealing with pure functions that return values is easier to reason about than side-effects.
 
+```js
+const numbers = [1, 2, 3, 4, 5];
+/**
+ * bad
+ */
+let sum = 0;
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
