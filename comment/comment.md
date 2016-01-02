@@ -38,6 +38,10 @@ function initData(data) {
  */
 if (test) {
 }
+
+/** [for: description] */
+for (len i = 0; i < 10; i++) {
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
