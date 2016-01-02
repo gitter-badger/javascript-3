@@ -37,6 +37,7 @@ const obj = {
 
 #### 2. Semicolons
 
+
 - Eslint rules tags: [`semi`](http://eslint.org/docs/rules/semi.html)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
