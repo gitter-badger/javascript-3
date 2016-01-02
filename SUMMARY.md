@@ -48,3 +48,4 @@
     * Do not export directly from imports
 11. [Iterators and Generators](./iteratorGenerator/iteratorGenerator.md)
     * Do not use iterators
+    * Do not use generator for now (reserved)
