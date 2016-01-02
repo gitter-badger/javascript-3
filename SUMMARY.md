@@ -10,4 +10,4 @@
     * Do not use reserved words
     * Use computed property names
     * Use shorthand
-    * 
+    * Group shorthand
