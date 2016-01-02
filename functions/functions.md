@@ -225,7 +225,8 @@ const h = function() {};
 /**
  * good
  */
-const x = function () {};   /** of course it 's recommended
+const x = function () {};   /** 
+                             * of course it 's recommended
                              * that using function x() {}
                              */
 const y = function a() {};
