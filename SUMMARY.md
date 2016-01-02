@@ -22,3 +22,5 @@
     * Use object destructuring
     * Use array destructuring
 6. [String](./string/string.md)
+    * Use ' for string
+    
