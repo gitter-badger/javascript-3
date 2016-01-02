@@ -26,7 +26,14 @@ dragon.setAge(25);
 /**
  * bad
  */
+if (!dragon.age()) {
+}
 
+/**
+ * good
+ */
+if (!dragon.hasAge()) {
+}
 ```
 
 
