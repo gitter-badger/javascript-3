@@ -37,6 +37,26 @@ arr.push('aleen');
 
 #### 3. Use spreads `...`
 
+- To use array spreads to copy arrays.
+
+```js
+/** 
+ * bad
+ */
+const len = items.length;
+const itemsCopy = [];
+let i;
+
+for (i = 0; i < len; i++) {
+    itemsCopy[i] = items[i]; 
+}
+
+/**
+ * good
+ */
+const itemsCopy = [...items];
+```
+
 - *Notice that: computed properties are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Browser_compatibility)*
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
