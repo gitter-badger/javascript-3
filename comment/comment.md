@@ -83,6 +83,15 @@ class Aleen extends Hero {
         total = 0;
     }
 }
+
+class Aleen extends Hero {
+    constructor() {
+        super();
+        
+        // TODO: total should be configurable by an options param
+        total = 0;
+    }
+}
 ```
 
 
