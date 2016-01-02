@@ -31,6 +31,6 @@
 - If the function body only has a single expression, feel free to omit the braces and use the implicit return. Otherwise, use a `return` statement.
 
 > Why? Syntactic sugar(語法糖). It reads well when multiple functions are chained together.
-> 
+> Why not? If you plan on returning an object.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
