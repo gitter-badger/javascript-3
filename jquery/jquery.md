@@ -25,6 +25,10 @@ const $sidebar = $('.sidebar');
 function setSidebar() {
     $('.sidebar').hide();
     
+    /**
+     * ...
+     */
+    
     $('.sidebar').css({
         'background-color': 'blue'
     });
