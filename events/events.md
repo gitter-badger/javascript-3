@@ -1,7 +1,22 @@
 ## Events [**Back**](./../README.md)
 
-- Accessors functions for properties are not required.
+- When attaching data payloads to events (whether DOM events or something more proprietary like Backbone events), pass a hash instead of a raw value. This allows a subsequent contributor to add more data to the event payload without finding and updating every handler for the event.
 
-#### 1. 
+```js
+/**
+ * bad
+ */
+$(this).trigger('listingUpdated', listing.id);
+
+/**
+ * Event
+ */
+$(this).on('listingUpdated', function (e, listingId) {
+    /**
+     * Actions of handling the event
+     *
+});
+
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
