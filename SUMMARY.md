@@ -52,3 +52,4 @@
 12. [Properties](./properties/properties.md)
     * Use dot notation
     * Use subscript notation []
+13. [Variables](./properties/properties.md)
