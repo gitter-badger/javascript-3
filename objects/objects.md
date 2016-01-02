@@ -150,4 +150,6 @@ const obj = {
 
 - To group your shorthand properties at the beginning of the object declaration.
 
+> the reason is that it's easier to tell which properties are using shorthand
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
