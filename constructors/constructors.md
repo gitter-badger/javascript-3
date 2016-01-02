@@ -13,7 +13,7 @@ function Queue(contents = []) {
 }
 Queue.prototype.pop = function () {
     const value = this._queue[0]
-    this._que.splice(0, 1);
+    this._queue.splice(0, 1);
     return value;
 }
 
@@ -23,6 +23,12 @@ Queue.prototype.pop = function () {
 class Queue {
     constructor(contents = []) {
         this._queue = [...contents];
+    }
+    
+    pop() {
+        const value = this._queue[0];
+        this._queue.splice(0, 1);
+        return value;
     }
 }
 ```
