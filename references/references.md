@@ -1,6 +1,6 @@
 ## References [**Back**](./../README.md)
 
-#### Use `const`
+#### 1. Use `const`
 - To use `const` for all of your references, and avoid using `var`.
 - Eslint rules tags: [`prefer-const`](http://eslint.org/docs/rules/prefer-const.html), [`no-const-assign`](http://eslint.org/docs/rules/no-const-assign.html)
 
