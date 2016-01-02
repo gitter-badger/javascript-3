@@ -29,6 +29,14 @@ function initData(data) {
 
 #### 2. Structural comments
 
-- use single line to give comments of structural comments such as `if`, `switch`, `for`
+- Comments of structural comments such as `if`, `switch`, `for`.
+
+```js
+/** [if: description]
+ *
+ */
+if (test) {
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
