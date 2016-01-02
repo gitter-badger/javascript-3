@@ -40,5 +40,7 @@ const heros = {
 };
 ```
 
+- It's recommended that using readable synonyms(同義詞) 
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
