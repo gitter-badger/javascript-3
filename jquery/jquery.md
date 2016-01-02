@@ -69,9 +69,9 @@ $('.sidebar > ul').hide();
 
 <table>
     <thead>
-		<th scope="col">Date</th>
-		<th scope="col">Target</th>
-		<th scope="col">Summary</th>
+		<th scope="col">Type</th>
+		<th scope="col">Statements</th>
+		<th scope="col">Results</th>
 	</thead>
     <tbody>
         <tr>
