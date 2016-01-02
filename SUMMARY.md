@@ -69,4 +69,4 @@
 16. [Blocks](./blocks/blocks.md)
     * Use braces
     * Closing braces
-17. [Comment](./comment/comment.md)
+17. [Comments](./comment/comment.md)
