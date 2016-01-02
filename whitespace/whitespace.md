@@ -197,6 +197,7 @@ if (foo) {
  */
 if (foo) {
     console.log('test');
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
