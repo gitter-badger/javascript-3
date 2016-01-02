@@ -110,6 +110,10 @@ class Aleen {
     constructor(options = {}) {
         this.name = options.name || 'no name';
     }
+    
+    getName() {
+        return this.name;
+    }
 }
 ```
 
