@@ -62,4 +62,6 @@ if (collections.length) {
 }
 ```
 
+#### 3. More details
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
