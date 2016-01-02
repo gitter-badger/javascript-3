@@ -196,4 +196,14 @@ function handleThings(name, opts = {}) {
 
 > the reason like using `eval()` on a string, is that creating a function in this way will open vulnerabilities.
 
+```js
+/**
+ * bad
+ */
+var add = new Function('a', 'b', 'return a + b');
+
+// still bad
+var subtract = Function('a', 'b', 'return a - b');
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
