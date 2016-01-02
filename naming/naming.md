@@ -35,4 +35,6 @@ const good = new PuiManCheui({
 this._firstName = 'PuiMan';
 ```
 
+#### 4. Do not save `this`
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
