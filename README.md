@@ -8,6 +8,7 @@
 1. [**Types**](./types/types.md)
 2. [**References**](./references/references.md)
 3. [**Objects**](./objects/objects.md)
+4. [**Arrays**](./arrays/arrays.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
