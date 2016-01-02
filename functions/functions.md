@@ -202,7 +202,9 @@ function handleThings(name, opts = {}) {
  */
 var add = new Function('a', 'b', 'return a + b');
 
-// still bad
+/**
+ * still bad
+ */
 var subtract = Function('a', 'b', 'return a - b');
 ```
 
