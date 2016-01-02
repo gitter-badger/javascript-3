@@ -39,6 +39,15 @@ const val = parseInt(inputValue, 10);
 
 - If for whatever reason you are doing something wild and parseInt is your bottleneck(瓶頸) and need to use Bitshift(位移操作) for [performance reasons](http://jsperf.com/coercion-vs-casting/3), leave a comment explaining why and what you're doing.
 
+```js
+/**
+ * parseInt was the reason my code was slow.
+ * Bitshifting the String to coerce it to a
+ * Number made it a lot faster.
+ */
+const val = inputValue >> 0;
+```
+
 #### 3. Booleans
 
 
