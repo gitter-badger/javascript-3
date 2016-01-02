@@ -47,6 +47,7 @@ const val = parseInt(inputValue, 10);
  */
 const val = inputValue >> 0;
 ```
+- *Notice that: when using Bitshift, you should care more about the problem of overflow*
 
 #### 3. Booleans
 
