@@ -68,6 +68,16 @@ function example() {
         console.log('f');
     };
 }
+
+function example() {
+    console.log(named);     /** undefined                       */
+    
+    named();                /** TypeError, not a function       */
+    
+    var named = function f() {
+        console.log('f');
+    };
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
