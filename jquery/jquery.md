@@ -51,6 +51,8 @@ function setSidebar() {
 }
 ```
 
-#### 3. Use Cascading $('.sidebar ul') or parent > child $('.sidebar > ul')
+#### 3. Use Cascading or parent > child
+
+- To use Cascading $('.sidebar ul') or parent > child $('.sidebar > ul')
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
