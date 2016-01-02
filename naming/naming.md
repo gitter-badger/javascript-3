@@ -76,6 +76,18 @@ class CheckBox {
    * ...
    */
 }
+export default CheckBox;
+
+/**
+ * bad
+ */
+import CheckBox from './checkBox';
+import CheckBox from './check_box';
+
+/**
+ * good
+ */
+import CheckBox from './CheckBox';
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
