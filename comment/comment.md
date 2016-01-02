@@ -29,7 +29,7 @@ function initData(data) {
 
 #### 2. Structural comments
 
-- Comments of structural comments such as `if`, `switch`, `for`.
+- Comments of structural comments such as `if`, `switch`, `for`, `while`.
 
 ```js
 /** 
