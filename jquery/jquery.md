@@ -72,6 +72,7 @@ Test</thead>
         <tr>
             <td>type</td>
             <td>statements</td>
+            <td>result</td>
         </tr>
     </tbody>
 </table>
