@@ -148,7 +148,7 @@ $('#items')
         .updateCount();
 ```
 
-#### 4. Leave a blank after blocks and before the next statement
+#### 4. Leave a blank line after blocks and before the next statement
 
 ```js
 /**
