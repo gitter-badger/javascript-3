@@ -55,3 +55,4 @@
 13. [Variables](./variables/variables.md)
     * Always use const
     * Use one const declaration per variable
+    * Group all the `const` and `let`
