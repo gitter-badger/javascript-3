@@ -19,5 +19,21 @@ const items = [];
 
 #### 2. Use `push()`
 
+- To use Array#push instead of direct assignment to add items to an array.
+
+```js
+const arr = [];
+
+/**
+ * bad
+ */
+arr[arr.length] = 'aleen';
+
+/**
+ * good
+ */
+arr.push('aleen');
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
