@@ -82,4 +82,6 @@ function yup(name, options, args) {
 }
 ```
 
+- More importantly, you won't never use `arguments`, opt to use rest syntax `...` instead.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
