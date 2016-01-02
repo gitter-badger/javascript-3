@@ -38,6 +38,20 @@ function () {
 - Eslint rules tags: [`brace-style`](http://eslint.org/docs/rules/brace-style.html)
 
 ```js
+/**
+ * bad
+ */
+if (test) {
+}
+else {
+}
+
+/**
+ * good
+ */
+if (test) {
+} else {
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
