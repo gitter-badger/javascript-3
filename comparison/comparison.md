@@ -22,4 +22,6 @@ if ([false]) {
 }
 ```
 
+#### 2. Use shortcuts
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
