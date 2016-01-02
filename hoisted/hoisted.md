@@ -40,6 +40,8 @@
 }
 ```
 
+#### 2. Function expressions
+
 - Anonymous function expressions hoist their variable name, but not the function assignment.
 
 ```js
