@@ -18,6 +18,10 @@ const totalScore = String(reviewScore);
 
 #### 2. Numbers
 
+```js
+const inputValue = '4';
+```
+
 #### 3. Booleans
 
 
