@@ -97,4 +97,16 @@ const obj = {
 - To use object method shorthand.
 - Eslint rules tags: [`object-shorthand`](http://eslint.org/docs/rules/object-shorthand.html)
 
+```js
+/**
+ * bad
+ */
+const atom = {
+    value: 1,
+    addValue: function(value) {
+        return atom.value + value;
+    }
+};
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
