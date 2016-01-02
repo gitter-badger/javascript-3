@@ -24,6 +24,13 @@ const name = Aleen.name;
 
 #### 2. Use subscript notation `[]`
 
-- To use subscript notation `[]` when accessing properties with a variable
+- To use subscript notation `[]` when accessing properties with a variable.
+
+```js
+const Aleen = {
+    name: 'PuiMan Cheui',
+    age: '22'
+};
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
