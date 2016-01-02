@@ -235,6 +235,7 @@ const y = function a() {};
 #### 7. Never mutate parameters
 
 - Do not to manipulating objects passed in as parameters to mutate them.
+- Eslint rules tags: [`no-param-reassign`](http://eslint.org/docs/rules/no-param-reassign.html)
 
 > the reason is that this can cause unwanted variable side effects in the original caller.
 
