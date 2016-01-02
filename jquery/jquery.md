@@ -68,6 +68,12 @@ $('.sidebar > ul').hide();
 <table>
     <thead>Testing in Chrome 47.0.2526.106 32-bit on Windows NT 10.0 64-bit
 Test</thead>
+    <tbody>
+        <tr>
+            <td>type</td>
+            <td>statements</td>
+        </tr>
+    </tbody>
 </table>
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
