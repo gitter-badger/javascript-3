@@ -7,6 +7,7 @@
 # Categories
 1. [**Types**](./types/types.md)
 2. [**References**](./references/references.md)
+3. [**Objects**](./objects/objects.md)
 
 ## About me
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
