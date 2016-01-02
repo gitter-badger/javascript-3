@@ -27,9 +27,9 @@ function initData(data) {
 }
 ```
 
-#### 2. Structural comments
+#### 2. Control statements
 
-- Comments of structural comments such as `if`, `switch`, `for`, `while`.
+- Comments of control statements such as `if`, `switch`, `for`, `while`.
 
 ```js
 /** 
