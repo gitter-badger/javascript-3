@@ -14,3 +14,5 @@
     * Use shorthand
     * Group shorthand
 4. [Arrays](./arrays/arrays.md)
+    * Use []
+    * Use push()
