@@ -1,11 +1,9 @@
 ## Complex [**Back**](./../types.md)
 
 - When accessing a complex type, you should work on a reference to its value.
-    - `string`
-    - `number`
-    - `bool`
-    - `null`
-    - `undefined`
+    - `object`
+    - `array`
+    - `function`
 
 ```js
 const foo = 1;
