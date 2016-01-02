@@ -27,4 +27,5 @@
     * Use template strings
     * Do not use eval()
 7. [Functions](./functions/functions.md)
+    * Use function declarations
     
