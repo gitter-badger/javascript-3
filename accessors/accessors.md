@@ -40,4 +40,8 @@ if (!dragon.hasAge()) {
 
 - It's ok to create `get()` and `set()`, but be consistent.
 
+```js
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
