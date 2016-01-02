@@ -2,7 +2,7 @@
 
 - Accessors functions for properties are not required.
 
-#### 1. use `getVal()` and `setVal('name')`
+#### 1. use `getVal()` and `setVal(val)`
 
 ```js
 /**
