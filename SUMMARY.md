@@ -99,3 +99,5 @@
         * Use isVal() or hasVal()
         * Use get() and set()
     23. [Events](./events/events.md)
+- Advanced
+    1. [jQuery](./jquery/jquery.md)
