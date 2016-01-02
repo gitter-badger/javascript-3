@@ -95,6 +95,6 @@ const obj = {
 #### Use shorthand
 
 - To use object method shorthand.
-- Eslint rules tags: 
+- Eslint rules tags: [`object-shorthand`](http://eslint.org/docs/rules/object-shorthand.html)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
