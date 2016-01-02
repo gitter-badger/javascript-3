@@ -33,4 +33,6 @@ class Queue {
 }
 ```
 
+#### 2. Use `extends` for inheritance.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
