@@ -19,6 +19,12 @@
  * let and const
  */
 {
+    len foo;
+    console.log(foo);   /** undefined       */
+    foo = 2;
+}
+ 
+{
     /**
      * In ECMAScript 2015, let will hoist the variable
      * to the top of the block. However, referencing the 
