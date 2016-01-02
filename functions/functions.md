@@ -245,6 +245,13 @@ const y = function a() {};
 function change(obj) {
     obj.key = 1;
 }
+
+/**
+ * good
+ */
+function change(obj) {
+    const key = Object.prototype.hasOwnProperty.call(obj, 'key') ? obj.key : 1;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
