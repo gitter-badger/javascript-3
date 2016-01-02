@@ -1,4 +1,4 @@
-## Event [**Back**](./../README.md)
+## Events [**Back**](./../README.md)
 
 - Accessors functions for properties are not required.
 
