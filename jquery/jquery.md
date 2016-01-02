@@ -74,6 +74,7 @@ context node|```const has = $('ins', article).length > 0 ? true : false;```|169,
 context jQuery[0]|```const has = $('ins', $article[0]).length > 0 ? true : false;```|154,641 ± 6.12% (24% slower)
 cascade|```const has = $('article ins').length > 0 ? true : false;```|18,615 ± 1.80% (91% slower)
 'parent > child' selector|```const has = $('article > ins').length > 0 ? true : false;```|15,888 ± 5.97% (92% slower)
+context jQuery|```const has = $('ins', $article).length > 0 ? true : false;```| 10,120 ± 4.92% (95% slower)
 `find` method (jQuery context)|```const has = $($article).find('ins').length > 0 ? true : false;```|9,599 ± 1.84% (95% slower)
 context (no cache)|```const has = $('ins', 'article').length > 0 ? true : false;```|9,156 ± 4.45% (96% slower)
 select and find|```const has = $('article').find('ins').length > 0 ? true : false;```|7,046 ± 8.12% (97% **slowest**)
