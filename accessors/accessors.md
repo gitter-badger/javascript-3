@@ -46,6 +46,10 @@ class Aleen {
         const lightsaber = options.lightsaber || 'blue';
         this.set('lightsaber', lightsaber);
     }
+    
+    set(key, val) {
+        this[key] = val;
+    }
 }
 ```
 
