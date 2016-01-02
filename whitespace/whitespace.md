@@ -10,7 +10,12 @@
 - Eslint rules tags: [`space-before-blocks`](http://eslint.org/docs/rules/space-before-blocks.html)
 
 ```js
-
+/**
+ * good
+ */
+function test() {
+    console.log('test');
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
