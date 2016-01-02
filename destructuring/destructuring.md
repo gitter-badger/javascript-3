@@ -4,4 +4,8 @@
 
 #### 1. Use object destructuring
 
+- To use object destructuring when accessing and using multiple properties of an object.
+
+> the reason is that destructuring can save from creating temporary references for those properties.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
