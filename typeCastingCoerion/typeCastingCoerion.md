@@ -32,7 +32,7 @@ const val = parseInt(inputValue);
  * good
  */
 const val = Number(inputValue);
-const val = parseInt(inputValue, 10);   /** always with a radix for parsing strings when using parseInt    */
+const val = parseInt(inputValue, 10);
 ```
 
 #### 3. Booleans
