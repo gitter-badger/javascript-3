@@ -2,7 +2,7 @@
 
 - Accessors functions for properties are not required.
 
-#### 1. use `getVal()` and `setVal(val)`
+#### 1. Use `getVal()` and `setVal(val)`
 
 ```js
 /**
@@ -18,7 +18,7 @@ dragon.getAge();
 dragon.setAge(25);
 ```
 
-### 2. use `isVal()` or `hasVal()`
+### 2. Use `isVal()` or `hasVal()`
 
 - To use `isVal()` or `hasVal()` when the property is a `boolean`.
 
