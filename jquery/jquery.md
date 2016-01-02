@@ -69,24 +69,8 @@ $('.sidebar > ul').hide();
 
 Type|Statements|Results(*Opts/sec*
 :---:|:---:|:---:
-`find` method (**node** context)|```const has = $(artical).find('ins').length > 0 ? true : false```|
-<table>
-    <thead>
-		<th scope="col">Type</th>
-		<th scope="col">Statements</th>
-		<th scope="col">Results</th>
-	</thead>
-    <tbody>
-        <tr>
-            <td>`find` method(node context)</td>
-            <td>
-                <code>
-                    
-                </code>
-            </td>
-            <td>results</td>
-        </tr>
-    </tbody>
-</table>
+`find` method (**node** context)|```const has = $(artical).find('ins').length > 0 ? true : false```|203,913 ± 1.12% (**fastest**)
+fastest
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
