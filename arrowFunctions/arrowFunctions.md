@@ -47,6 +47,14 @@
     const nextNumber = number + 1;
     `A string containing the ${nextNumber}.`
 });
+
+/**
+ * good
+ */
+[1, 2, 3].map(number => {
+    const nextNumber = number + 1;
+    `A string containing the ${nextNumber}.`
+});
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
