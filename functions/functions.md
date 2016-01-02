@@ -131,7 +131,10 @@ function handleThings(opts) {
     if (opts === void 0) {
         opts = {};
     }
-    // ...
+    
+    /**
+     * ...
+     */
 }
 
 ```
