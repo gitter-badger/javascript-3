@@ -32,8 +32,9 @@ function initData(data) {
 - Comments of structural comments such as `if`, `switch`, `for`.
 
 ```js
-/** [if: description]
- *
+/** 
+ * [if: description]
+ * @param {[type]} test [description]
  */
 if (test) {
 }
