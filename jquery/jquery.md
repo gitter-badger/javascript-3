@@ -54,7 +54,7 @@ function setSidebar() {
 #### 3. Use Cascading or parent > child
 
 - To use Cascading `$('.sidebar ul')` or parent > child `$('.sidebar > ul')`, which named **context selector**
-- The performance testing between `.find()`, `context selector` and `non-context selector`
+- The performance testing between `.find()`, `context selector` and `non-context selector`. 
 
 ```js
 $('.sidebar ul').hide();
