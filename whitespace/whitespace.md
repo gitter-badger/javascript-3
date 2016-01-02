@@ -56,4 +56,16 @@ console.log('Good.');
 
 - Set off binary operators with one space, but not unary ones.
 
+```js
+/**
+ * bad
+ */
+const x=y+5;
+
+/**
+ * good
+ */
+const x = y + 5;
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
