@@ -10,8 +10,9 @@ const thisIsAnObject = {};
 function helloAleen() {}
 ```
 
-#### 2. Use PascalCase
+#### 2. Use pascalcase
 
-- 
+- To use PascalCase when naming `constructors` or `classes`.
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
