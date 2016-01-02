@@ -152,5 +152,34 @@ const obj = {
 
 > the reason is that it's easier to tell which properties are using the shorthand.
 
+```js
+const puiManCheui = 'PuiMan Cheui';
+const syuJiZau = 'SyuJi Zau';
+
+/**
+ * bad
+ */
+const obj = {
+    puiManCheui,
+    episodeOne: 1,
+    theSecond: 2,
+    episodeThree: 3,
+    SyujiZau,
+    mayTheFourth: 4
+};
+
+/**
+ * good
+ */
+const obj = {
+    puiManCheui,
+    SyujiZau,
+    episodeOne: 1,
+    theSecond: 2,
+    episodeThree: 3,
+    mayTheFourth: 4
+};
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
