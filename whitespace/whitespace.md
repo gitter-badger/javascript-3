@@ -151,6 +151,26 @@ $('#items')
 #### 4. Leave a blank after blocks and before the next statement
 
 ```js
+/**
+ * bad
+ */
+if (foo) {
+    /**
+     * ...
+     */
+}
+console.log('test');
+
+/**
+ * good
+ */
+if (foo) {
+    /**
+     * ...
+     */
+}
+
+console.log('test');
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
