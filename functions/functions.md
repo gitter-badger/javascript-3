@@ -208,6 +208,12 @@ var add = new Function('a', 'b', 'return a + b');
 var subtract = Function('a', 'b', 'return a - b');
 ```
 
-#### 5. 
+#### 6. Spacing
+
+- To spacing in a function signature.
+
+> Consistency is good, and you shouldn’t have to add or remove a space when adding or removing a name.
+
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
