@@ -82,7 +82,7 @@ function yup(name, options, args) {
 }
 ```
 
-- More importantly, you won't never use `arguments`, opt to use rest syntax `...` instead.
+- Also, never use `arguments`, opt to use rest syntax `...` instead.
 
 > the reason is that `...` is explicit about which arguments you want pulled. Plus rest arguments are a real Array and not Array-like like `arguments`.
 
