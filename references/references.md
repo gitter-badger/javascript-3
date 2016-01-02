@@ -18,7 +18,6 @@ var b = 2;
  */
 const a = 1;
 const b = 2;
-
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
