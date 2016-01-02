@@ -28,4 +28,11 @@ export default es6;
 
 > the reason is that this can make sure you have a single default export.
 
+```js
+/**
+ * bad
+ */
+import * as StyleGuide
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
