@@ -82,4 +82,8 @@ function sayHi(name) {
 
 - *Notice that: template strings are only supported by ECMAScript 6 (ES6). [**Browser Compatibility**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings#Browser_compatibility)*
 
+#### 4. Do not use `eval()`
+
+- It's not recommended to use `eval()` on a string, cause it will open too many vulnerabilities(弱點).
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
