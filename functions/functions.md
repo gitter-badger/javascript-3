@@ -62,4 +62,15 @@ if (currentUser) {
 
 - Never name a parameter `arguments`, which will take precedence(優先級) over the `arguments` object that is given to every function scope.
 
+```js
+/**
+ * bad
+ */
+function nope(name, options, arguments) {
+    /**
+     *  ...stuff...
+     */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
