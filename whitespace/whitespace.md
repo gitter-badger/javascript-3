@@ -204,4 +204,11 @@ if (foo) {
 
 #### 6. Do not add space inside brackets(方括號) and parentheses(圓括號)
 
+- Eslint rules tags: [`space-in-parens`](http://eslint.org/docs/rules/space-in-parens.html)
+
+```js
+/**
+ * bad
+ */
+```
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
