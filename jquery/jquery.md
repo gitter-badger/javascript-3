@@ -59,6 +59,9 @@ function setSidebar() {
 $('.sidebar ul').hide();
 
 $('.sidebar > ul').hide();
+
+$sidebar = $('.sidebar');
+$sidebar.find('ul');
 ```
 
 #### 4. Performance of different selectors
