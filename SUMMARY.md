@@ -49,4 +49,4 @@
 11. [Iterators and Generators](./iteratorGenerator/iteratorGenerator.md)
     * Do not use iterators
     * Do not use generators for now (reserved)
-12. [Proerties](./properties/iteratorGenerator.md)
+12. [Properties](./properties/iteratorGenerator.md)
