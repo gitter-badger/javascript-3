@@ -64,4 +64,8 @@ class PeekableQueue extends Queue {
 
 - Methods can return `this` to help with method chaining.
 
+```js
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
