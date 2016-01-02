@@ -42,6 +42,10 @@ if (test) {
      */
 }
 
+/** 
+ * [switch: description]
+ * @param {[type]} test [description]
+ */
 switch (test) {
     case 'a':
         break;
