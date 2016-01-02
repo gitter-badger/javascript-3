@@ -10,6 +10,6 @@
     - **Undefined** evaluate to  **false**.
     - **Null** evaluate to **false**.
     - **Booleans** evaluate to  **the value of the boolean**
-    - **Numbers** evaluate to **false** if **+0**, **-0**, or **Nan**
+    - **Numbers** evaluate to **false** if **+0**, **-0**, or **Nan**, otherwise **true**
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
