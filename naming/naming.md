@@ -98,6 +98,14 @@ function makeStyleGuide() {
 }
 
 export default makeStyleGuide;
+
+const StyleGuide = {
+    es6: {
+    }
+};
+
+export default StyleGuide;
 ```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
