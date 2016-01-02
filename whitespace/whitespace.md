@@ -202,4 +202,6 @@ if (foo) {
 }
 ```
 
+#### 6. Do not add space inside brackets and parentheses
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
