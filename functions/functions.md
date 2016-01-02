@@ -194,6 +194,6 @@ function handleThings(name, opts = {}) {
 
 - Never use the Function constructor to create a new function.
 
-> the reason like using `eval()` on a string, is that creating a function in this way will open vulnerabilities
+> the reason like using `eval()` on a string, is that creating a function in this way will open vulnerabilities.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
