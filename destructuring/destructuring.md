@@ -27,6 +27,13 @@ function getFullName(user) {
     
     return firstName + ' ' + lastName;
 }
+
+/**
+ * best
+ */
+function getFullName({firstName, lastName}) {
+    return firstName + ' ' + lastName;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
