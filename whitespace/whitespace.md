@@ -54,6 +54,6 @@ console.log ('Not good.');
 console.log('Good.');
 ```
 
-- Set off binary operators with one space, but not 
+- Set off binary operators with one space, but not unary ones.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
