@@ -2,6 +2,12 @@
 
 #### 1. Use camelCase
 
-- To use camelCase when naming `objects`, `functions` and `instances`
+- To use camelCase when naming `objects`, `functions` and `instances`.
+- Eslint rules tags: [`camelcase`](http://eslint.org/docs/rules/camelcase.html)
+
+```js
+const thisIsAnObject = {};
+function helloAleen() {}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
