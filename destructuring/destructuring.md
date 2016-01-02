@@ -69,6 +69,8 @@ function processInput(input) {
      */
     return { left, right, top, bottom };
 }
+
+
 ```
 
 #### 2. Use array destructuring
