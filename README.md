@@ -15,6 +15,7 @@
 5. [**Destructuring**(解構)](./destructuring/destructuring.md)
 6. [**String**](./string/string.md)
 7. [**Functions**](./functions/functions.md)
+8. [**Arrow Functions**](./arrowFunctions/arrowFunctions.md)
 9. [**Constructors**](./constructors/constructors.md)
 10. [**Modules**](./modules/modules.md)
 11. [**Iterators and Generators**](./iteratorGenerator/iteratorGenerator.md)
@@ -30,14 +31,7 @@
 21. [**Naming**](./naming/naming.md)
 22. [**Accessors**](./accessors/accessors.md)
 23. [**Events**](./events/events.md)
-
-#### Advanced
-
-1. [**jQuery**](./jquery/jquery.md)
-
-#### ECMAScript6 Features
-
-1. [**Arrow Functions**](./arrowFunctions/arrowFunctions.md)
+24. [**jQuery**](./jquery/jquery.md)
 
 
 ## About me
