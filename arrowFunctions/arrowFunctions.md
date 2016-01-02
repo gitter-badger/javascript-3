@@ -57,7 +57,7 @@
 });
 ```
 
-- If the expression spans over multiple lines, wrap it in parentheses for better readability.
+- If the expression spans over multiple lines, wrap it in parentheses(圓括號) for better readability.
 
 
 
