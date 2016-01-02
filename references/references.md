@@ -22,5 +22,6 @@ const b = 2;
 
 #### Use `let`
 - If you must reassign references, you can use `let` instead of `var`.
+- Eslint rules tags: [`no-var`](http://eslint.org/docs/rules/no-var.html)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
