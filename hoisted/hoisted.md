@@ -10,8 +10,8 @@
  * let and const
  */
 {
-  console.log(foo); // ReferenceError
-  let foo = 2;
+    console.log(foo); // ReferenceError
+    let foo = 2;
 }
 ```
 
