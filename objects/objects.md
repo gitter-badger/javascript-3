@@ -40,7 +40,16 @@ const heros = {
 };
 ```
 
-- It's recommended that using readable synonyms(同義詞) in place of reserved words. 
+- It's recommended that using readable synonyms(同義詞) in place of reserved words.
+
+```js
+/**
+ * bad
+ */
+const heros = { class: 'alien' };
+
+};
+```
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
