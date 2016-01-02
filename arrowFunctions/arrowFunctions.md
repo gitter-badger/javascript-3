@@ -28,4 +28,6 @@
 
 #### 2. Omit the braces(忽略大括號) and use the implicit(隱式) return
 
+- If the function body only has a single expression, feel free to omit the braces and use the implicit return. Otherwise, use a `return` statement.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
