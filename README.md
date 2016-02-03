@@ -6,11 +6,11 @@
 
 ## Start Reading
 
-- Read on [**GitBook**](https://www.gitbook.com/read/book/aleen42/css)
+- Read on [**GitBook**](https://www.gitbook.com/read/book/aleen42/javascript)
 - Downloads:
-    - [**PDF**](https://www.gitbook.com/download/pdf/book/aleen42/css)
-    - [**ePub**](https://www.gitbook.com/download/epub/book/aleen42/css)
-    - [**mobi**](https://www.gitbook.com/download/mobi/book/aleen42/css)
+    - [**PDF**](https://www.gitbook.com/download/pdf/book/aleen42/javascript)
+    - [**ePub**](https://www.gitbook.com/download/epub/book/aleen42/javascript)
+    - [**mobi**](https://www.gitbook.com/download/mobi/book/aleen42/javascript)
 
 ## Categories
 
