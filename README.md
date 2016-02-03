@@ -1,10 +1,18 @@
 <img src="./cover_read.jpg">
 
-# About
+## About
 - This is a book which is about the personal guide of JavaScript style, to constraint my coding style. And the guides has combined with [**Airbnb**](https://github.com/airbnb/javascript#types), [**Idiomatic**](https://github.com/rwaldron/idiomatic.js), and so on.
 - Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
 
-# Categories
+## Start Reading
+
+- Read on [**GitBook**](https://www.gitbook.com/read/book/aleen42/css)
+- Downloads:
+    - [**PDF**](https://www.gitbook.com/download/pdf/book/aleen42/css)
+    - [**ePub**](https://www.gitbook.com/download/epub/book/aleen42/css)
+    - [**mobi**](https://www.gitbook.com/download/mobi/book/aleen42/css)
+
+## Categories
 
 1. [**Types**](./types/types.md)
 2. [**References**](./references/references.md)
