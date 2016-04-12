@@ -155,7 +155,7 @@ a.navigation,
     background-image: url(./../pic/summary-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 64% center;
     border: none !important;
     box-shadow: -8px 0px 18px #000 inset;
 }
@@ -195,7 +195,7 @@ a.navigation,
     height: 50px;
     position: fixed;
     top: 50%;
-    left: -11px;
+    left: -25px;
     cursor: pointer;
     transform: translateY(-25px);
     -webkit-transform: translateY(-25px);
