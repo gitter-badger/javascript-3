@@ -12,7 +12,7 @@
     "links": {
         "sidebar": {
             "GitHub Project": "https://github.com/aleen42/javascript"
-        }  
+        }
     },
     "plugins": [
         "disqus",
@@ -21,17 +21,12 @@
         "sharing",
         "tbfed-pagefooter",
         "ga",
-        "customtheme"
+        "customtheme",
+        "comments"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "personal"
-        },
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": [
-                "Gitbook Use"
-            ]
         },
         "github": {
             "url": "https://github.com/aleen42"
@@ -44,8 +39,11 @@
             "instapaper": false,
             "vk": false,
             "all": [
-                "facebook", "google", "twitter",
-                    "weibo", "instapaper"
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
             ]
         },
         "tbfed-pagefooter": {
