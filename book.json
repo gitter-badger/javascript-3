@@ -20,7 +20,8 @@
         "github",
         "sharing",
         "tbfed-pagefooter",
-        "ga"
+        "ga",
+        "customtheme"
     ],
     "pluginsConfig": {
         "disqus": {
