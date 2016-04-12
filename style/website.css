@@ -199,6 +199,12 @@ a.navigation,
     cursor: pointer;
     transform: translateY(-25px);
     -webkit-transform: translateY(-25px);
+    transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+}
+
+#overlay-icon:hover {
+    left: -11px;
 }
 
 /** body scroll bar */
