@@ -4,6 +4,10 @@
 - This is a book which is about the personal guide of JavaScript style, to constraint my coding style. And the guides has combined with [**Airbnb**](https://github.com/airbnb/javascript#types), [**Idiomatic**](https://github.com/rwaldron/idiomatic.js), and so on.
 - Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
 
+[![read](https://img.shields.io/badge/read-gitbook-brightgreen.svg)](https://aleen42.gitbooks.io/javascript/content/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://aleen42.gitbooks.io/personalwiki/content/MIT.html)
+
+[![downloadPDF](https://img.shields.io/badge/download-PDF-%23a10000.svg)](https://www.gitbook.com/download/pdf/book/aleen42/javascript) [![downloadePub](https://img.shields.io/badge/download-ePub-%23a10000.svg)](https://www.gitbook.com/download/epub/book/aleen42/javascript) [![downloadePub](https://img.shields.io/badge/download-mobi-%23a10000.svg)](https://www.gitbook.com/download/mobi/book/aleen42/javascript) 
+
 ## Start Reading
 
 - Read on [**GitBook**](https://www.gitbook.com/read/book/aleen42/javascript)
