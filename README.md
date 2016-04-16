@@ -1,6 +1,8 @@
 <a href="https://www.gitbook.com/read/book/aleen42/javascript" target="_blank"><img src="./cover_read.png"></a>
 
 ## About
+
+[![Join the chat at https://gitter.im/aleen42/javascript](https://badges.gitter.im/aleen42/javascript.svg)](https://gitter.im/aleen42/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - This is a book which is about the personal guide of JavaScript style, to constraint my coding style. And the guides has combined with [**Airbnb**](https://github.com/airbnb/javascript#types), [**Idiomatic**](https://github.com/rwaldron/idiomatic.js), and so on.
 - Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
 
